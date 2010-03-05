@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 257
+layout: post
+title: Welcome
+wordpress_url: http://www.johng.co.uk/?p=2
+---
+After trying to do this on the cheap for a long time I have finally caved in and bought some hosting. <a href="http://www.fasthosts.co.uk">Fasthosts</a> have a cheap linux package with excellent support that seems to be running smoothly so far. After toying with the idea of using <a href="http://www.freesql.org">freesql.org</a> for hosting the database I soon realised its not going to happen when it blocked me for "over usage" after two short minutes. So fasthosts will be getting my business in that area also. Stay tuned.

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 341
+layout: post
+title: "Podcasting: The Three Camps"
+wordpress_url: http://www.johng.co.uk/index.php/2005/05/03/podcasting-the-three-camps/
+---
+I don't see the podcasting trends that have emerged this week as <a href="http://archive.scripting.com/2005/05/03#moreCommentsOnTheCurrysiriusDeal" target="_self">black and white as Dave does</a>, to me it seems there are three overlapping camps of thought. <p>There will be people who are so good at podcasting and hosting/producing audio content that they move to traditional radio just to secure an income doing what they enjoy (even if heavily commercialised and censored). Others will seek an income or small profit from sponsorship and schemes such as what Podshow provide. Finally the majority of people will be content delivering their podcasts to relatively a fewer number of people for no financial gain but just for the love of doing it.</p>  <p>Curry is an exception, which you must expect given he was <strong>one</strong> of the founders of the medium. He hasn't used podcasting to get himself back on radio, but instead, will be using radio to get more people to get into podcasting. He has made it clear that in the past that XM\Sirius offered him a regular radio show but he turned it down because of his belief in podcasting. It makes more financial sense for him to attract large number of people to podcasting because he has a vested interest and holds the contracts to the most popular shows.</p>

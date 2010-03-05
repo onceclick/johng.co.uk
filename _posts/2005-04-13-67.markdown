@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 322
+layout: post
+title: The Origins of Man
+wordpress_url: http://www.johng.co.uk/index.php/2005/04/13/67/
+---
+The BBC are <a href="http://news.bbc.co.uk/1/hi/sci/tech/4435009.stm">reporting on a new study</a> to investigate human migration routes from our origins in Africa. This is a fascinating topic which raises so many questions about where we came from and why the human race has so much diversity in it. Some of my favourite questions from the article that I would like to see answered are:
+
+<ul>
+	<li>Did Alexander the Great's armies leave a genetic trail?</li>
+	<li>Who were the first people to colonise India?</li>
+	<li>Was there any interbreeding with Neanderthals as modern humans moved into Europe?</li>
+	<li>Did any of the migrations to the Americas come across the Pacific - or even the Atlantic?</li>
+</ul>
+
+One of the early shows I listened to when podcasting first started was <a href="http://www.itconversations.com/shows/detail255.html">Spencer Wells' lecture at PopTech 2004</a> which was probably one of the reasons I got hooked on podcasting in the first place due it's ability to entertain and educate unlike conventional radio. <a href="http://www.nationalgeographic.com/emerging/spencerWells.html">Wells</a> had been going around the world testing people from different regions to determine, using genetics, where their ancestors came from with an end goal of discovering the paths ancient humans traversed.
+
+Micheal Palin's <a href="http://www.palinstravels.co.uk/book-3633">recent escapades</a> in the Himilayas saw him meeting with the so called 'Children of Alexander' in the The Kalash Valleys. They have unusually light skin for the area and as Alexander's army once passed through the area a connection was made. Maybe this new study will shed some light on that mystery.
+
+
+I thought the <a href="http://www.bbc.co.uk/sn/tvradio/programmes/horizon/neanderthal_prog_summary.shtml">recent Horizon programme</a> on the Neanderthal would have mentioned the potential of interbreeding as a reason for their extinction but it never came up. Instead they claimed Neanderthals simply starved to death when they found themselves unable to adapt to the changing climate.
+
+It's nice to see <a href="http://www.ibm.com">IBM</a> putting their weight behind the project, especially with all the anti-evolution sentiment that seems to be <a href="http://news.bbc.co.uk/1/hi/world/americas/4248679.stm">cropping up</a> in the US in recent years, just ask <a href="http://observer.guardian.co.uk/international/story/0,,1441818,00.html">James Cameron</a> how stupid people are becoming.
