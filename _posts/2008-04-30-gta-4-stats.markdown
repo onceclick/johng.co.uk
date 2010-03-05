@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 677
+layout: post
+title: GTA 4 Stats
+wordpress_url: http://www.johng.co.uk/2008/04/30/gta-4-stats/
+---
+Here is my progess so far. Been hitting it hard :-)<br /><div><img src="http://www.johng.co.uk/wp-content/uploads/2008/04/p1000021.jpg"></div>

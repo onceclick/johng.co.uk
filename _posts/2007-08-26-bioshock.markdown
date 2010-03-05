@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 626
+layout: post
+title: Bioshock...
+wordpress_url: http://www.johng.co.uk/2007/08/26/bioshock/
+---
+...finished. Evil ending :-D
+
+I went for the <a href="http://www.ciao.co.uk/Desktops_Servers_5220723_2-pc-personal_computer">PC</a> version in the end. Ran like a dream on my HD 2900 XT fully maxed out.

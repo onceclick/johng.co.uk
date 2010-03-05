@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 499
+layout: post
+title: "4.1GHz for \xC2\xA375"
+wordpress_url: http://www.johng.co.uk/2006/05/21/41ghz-for-%c2%a375/
+---
+A few weeks ago I found out about <a href="http://tomshardware.co.uk/2006/05/10/dual_41_ghz_cores_uk/">this article</a> that claims a Pentium D 805 can be overclocked to 4.1GHz (3.6GHz realistically). This is a really attractive proposition for me as I am about to upgrade (what Oblivion needs, Oblivion gets) so it would be damn cheap if I could get the performance I need this way.
+
+I'll find out if its workable pretty soon as we have the components needed sitting in the flat waiting to be built for someone else's system. If all goes well I will be seriously considering it over the new AM2 chips that are out on Tuesday which I had originally planned on going for. Either way I'll write it up here once I know how far we can push this chip.

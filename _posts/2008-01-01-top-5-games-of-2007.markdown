@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 658
+layout: post
+title: Top 5 Games of 2007
+wordpress_url: http://www.johng.co.uk/2008/01/01/top-5-games-of-2007/
+---
+It has been awesome year for games and definitely the best since 2004.  Everyone will disagree in some way with this list so I'll just throw it up. Feel free to remind me of anything you think is missing (non Wii).
+<ol>
+	<li><a href="http://www.johng.co.uk/2007/10/23/the-orange-box-review/">The Orange Box</a></li>
+	<li><a href="http://www.johng.co.uk/2007/11/28/mass-effect-everything-we-expected/">Mass Effect</a></li>
+	<li><a href="http://en.wikipedia.org/wiki/Call_of_duty_4">Call of Duty 4</a></li>
+	<li><a href="http://www.johng.co.uk/2007/08/26/bioshock/">Bioshock</a></li>
+	<li><a href="http://www.johng.co.uk/2007/02/19/supreme-commander-a-game-for-the-ages/">Supreme Commander</a></li>
+</ol>

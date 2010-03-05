@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 493
+layout: post
+title: Update
+wordpress_url: http://www.johng.co.uk/2006/04/08/update/
+---
+<img align="right" title="hyperbolic" id="image269" alt="hyperbolic" src="http://www.johng.co.uk/wp-content/uploads/2006/04/poincare.gif" />All quiet on the blogging front recently, hyperbolic geometry is keeping me busy. Once I finish my  dissertation it's straight into exams for a couple of weeks until I pop out a free man on the 16th May.
+
+That will be interesting. I'll be unemployed!
+
+Oh and my fandabby hyperbolic tree whatsomograph will be open sourced and put on the site once it's all signed off and the code is frozen. In the mean time this should keep you entertained for all of 30 seconds.

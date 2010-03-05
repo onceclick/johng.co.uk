@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 259
+layout: post
+title: Snow in Rotherhithe
+wordpress_url: http://www.johng.co.uk/?p=4
+---
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;">
+ <a href="http://www.flickr.com/photos/jgriffin/5881770/" title="photo sharing"><img src="http://photos6.flickr.com/5881770_514e64964f_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+ <br />
+ <span style="font-size: 0.9em; margin-top: 0px;">
+  <a href="http://www.flickr.com/photos/jgriffin/5881770/">Snow in Rotherhithe</a>
+ </span>
+</div>
+Actually got a chance to see some snow settle this morning (normally the gritters clear it before I wake up) and it came down like a blizzard soon after taking this. All gone when I got home of course.
+<br clear="all" />

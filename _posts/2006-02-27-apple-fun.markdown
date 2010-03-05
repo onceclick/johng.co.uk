@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 480
+layout: post
+title: Apple Fun
+wordpress_url: http://www.johng.co.uk/2006/02/27/apple-fun/
+---
+Engadget have been having some fun with their <a href="http://www.engadget.com/2006/02/27/wwjd-3-results/">photoshop contest</a> in advance of tomorrow's keynote from Lord Jobs. My favourite the iPod <a href="http://en.wikipedia.org/wiki/Yocto">yocto</a>.
+
+<img alt="yocto" id="image249" src="http://www.johng.co.uk/wp-content/uploads/2006/02/ipod_yocto.jpg" />
+
+Now let us pray at the feet of his holyness Lord Jobs for an Apple tablet.

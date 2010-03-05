@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 561
+layout: post
+title: 360voice.com
+wordpress_url: http://www.johng.co.uk/2007/01/10/360voicecom/
+---
+Ok now <a href="http://www.360voice.com/blog.asp?tag=j0hn00">this is funny</a>. My 360 has it's own blog! Get yours <a href="http://www.360voice.com">here</a>.
