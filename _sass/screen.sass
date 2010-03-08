@@ -3,24 +3,33 @@
 @import blueprint
 @import blueprint/scaffolding.sass
 @import code.sass
+@import compass/utilities/links.sass
 +blueprint-scaffolding("body.bp")
 body.bp
-  +blueprint-typography(true)
-  +blueprint-utilities
-  +blueprint-debug
-  +blueprint-interaction
-  #container
-    +container
-  #header, #footer
-    +column(!blueprint_grid_columns)
-  #footer
-    text-align: center
-    line-height: 4em
-  #content
-    +column(!blueprint_grid_columns, true)
-    #comments
-      +clearfix
-      +column(!blueprint_grid_columns, true)
+	+blueprint-typography(true)
+	+blueprint-utilities
+	+blueprint-debug
+	+blueprint-interaction
+	#container
+		+container
+	#header, #footer
+		+column(!blueprint_grid_columns)
+	#header
+		a
+			+hover-link
+	#footer
+		text-align: center
+		line-height: 4em
+	#content
+		+column(!blueprint_grid_columns, true)
+		.post_item
+			.date
+				+column(2)
+			.link
+				+column(22,true)
+	#comments
+		+clearfix
+		+column(!blueprint_grid_columns, true)
 
 form.bp
-  +blueprint-form
+	+blueprint-form
