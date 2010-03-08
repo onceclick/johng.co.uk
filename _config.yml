@@ -1,3 +1,4 @@
 permalink: pretty
+pygments: true
 exclude:
   - config.rb
