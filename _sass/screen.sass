@@ -17,7 +17,10 @@ body.bp
     text-align: center
     line-height: 4em
   #content
-    +column(!blueprint_grid_columns)
+    +column(!blueprint_grid_columns, true)
+    #comments
+      +clearfix
+      +column(!blueprint_grid_columns, true)
 
 form.bp
   +blueprint-form
