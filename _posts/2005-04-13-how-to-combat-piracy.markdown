@@ -2,7 +2,7 @@
 wordpress_id: 323
 layout: post
 title: How to Combat Piracy
-wordpress_url: http://www.johng.co.uk/index.php/2005/04/13/how-to-combat-piracy/
+wordpress_url: http://www.johng.co.uk/2005/04/13/how-to-combat-piracy/
 ---
 The fine folks over at <a href="http://www.thepiratebay.org/">The Pirate Bay</a> sure know a thing or two about the world of international copyright law. When they recieved a warning to take down music on their Bit Torrent tracker by Enya from enya.com they responded with this nugget
 

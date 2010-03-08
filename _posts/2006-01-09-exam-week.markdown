@@ -2,7 +2,7 @@
 wordpress_id: 462
 layout: post
 title: Exam Week
-wordpress_url: http://www.johng.co.uk/index.php/2006/01/09/exam-week/
+wordpress_url: http://www.johng.co.uk/2006/01/09/exam-week/
 ---
 Things will be quiet on the blog front for at least a few days while I knuckle down and hammer out my January exams. It's the final year so there are no room for cock ups, I hope everyone else going through the same thing right now has good luck, I know I need it.
 

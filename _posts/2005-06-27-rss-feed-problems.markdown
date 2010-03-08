@@ -2,7 +2,7 @@
 wordpress_id: 391
 layout: post
 title: RSS Feed Problems
-wordpress_url: http://www.johng.co.uk/index.php/2005/06/27/rss-feed-problems/
+wordpress_url: http://www.johng.co.uk/2005/06/27/rss-feed-problems/
 ---
 I am having some problems with my RSS feed and am posting this as a test.
 

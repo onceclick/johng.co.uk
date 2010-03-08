@@ -2,7 +2,7 @@
 wordpress_id: 304
 layout: post
 title: Open Free WiFi at Home
-wordpress_url: http://www.johng.co.uk/index.php/2005/04/02/open-free-wifi-at-home/
+wordpress_url: http://www.johng.co.uk/2005/04/02/open-free-wifi-at-home/
 ---
 Come home for a few days this week, my birthday and a certain pay per view should make it an excellent week :-). Good train journey up, never find it too taxing when I have something to read and Dave Meltzer's newsletter was particularly good this week.
 

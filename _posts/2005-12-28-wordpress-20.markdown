@@ -2,7 +2,7 @@
 wordpress_id: 446
 layout: post
 title: Wordpress 2.0
-wordpress_url: http://www.johng.co.uk/index.php/2005/12/28/wordpress-20/
+wordpress_url: http://www.johng.co.uk/2005/12/28/wordpress-20/
 ---
 After an hour of tinkering the update to <a href="http://www.wordpress.org">Wordpress</a> 2.0 went as smoothly as ever and so far so good. I like the new WYSIWYG editor, much better than having to use a plugin and the image uploader is nice and handy now. I was also able to lose the <a href="http://www.technorati.com">Technorati</a> plugin I had running before because of the ease of tagging new posts to new categories.
 

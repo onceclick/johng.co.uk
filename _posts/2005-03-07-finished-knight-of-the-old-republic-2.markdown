@@ -2,7 +2,7 @@
 wordpress_id: 263
 layout: post
 title: Star Wars Knights of the Old Republic 2
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/07/finished-knight-of-the-old-republic-2/
+wordpress_url: http://www.johng.co.uk/2005/03/07/finished-knight-of-the-old-republic-2/
 ---
 I finished Star Wars Knights of the Old Republic 2 last week after playing it on and off since its release. This game is truely awesome and has the best roleplaying and plot elements I have ever seen but unfortunately its marred by bugs and a rushed ending. I was pleasntly surprised when I found I could train up my companions to become Jedi - and this is isn't forced apon you it just happens naturally through the course of the game depending on how you act and treat everyone. From what I could tell at least two out of your many companions can get the Jedi training (although I only trained one - hey I am not running an academy here!) and move away from their orignal class. All this natural character development is great but its tarnished by the ending.
 

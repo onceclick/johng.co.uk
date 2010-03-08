@@ -2,7 +2,7 @@
 wordpress_id: 322
 layout: post
 title: The Origins of Man
-wordpress_url: http://www.johng.co.uk/index.php/2005/04/13/67/
+wordpress_url: http://www.johng.co.uk/2005/04/13/67/
 ---
 The BBC are <a href="http://news.bbc.co.uk/1/hi/sci/tech/4435009.stm">reporting on a new study</a> to investigate human migration routes from our origins in Africa. This is a fascinating topic which raises so many questions about where we came from and why the human race has so much diversity in it. Some of my favourite questions from the article that I would like to see answered are:
 

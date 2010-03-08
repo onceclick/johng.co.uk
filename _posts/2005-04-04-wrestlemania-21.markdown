@@ -2,7 +2,7 @@
 wordpress_id: 307
 layout: post
 title: Wrestlemania 21
-wordpress_url: http://www.johng.co.uk/index.php/2005/04/04/wrestlemania-21/
+wordpress_url: http://www.johng.co.uk/2005/04/04/wrestlemania-21/
 ---
 Stayed up last night for Wrestlemania, I have to see this PPV live, it's tradition ;-). Best match was Angle vs HBK and I am very pleased Angle won that as he seems to keep losing matches at Wrestlemania. The crowd were really into it and there seemed to be more Angle fans than HBK fans in the audience.
 

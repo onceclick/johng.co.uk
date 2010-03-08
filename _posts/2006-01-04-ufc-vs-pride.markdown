@@ -2,7 +2,7 @@
 wordpress_id: 459
 layout: post
 title: UFC vs Pride
-wordpress_url: http://www.johng.co.uk/index.php/2006/01/04/ufc-vs-pride/
+wordpress_url: http://www.johng.co.uk/2006/01/04/ufc-vs-pride/
 ---
 I think Andy raises some <a href="http://gambit.wordpress.com/2006/01/04/pride-shockwave/">interesting points</a> about Pride in comparison to UFC. I agree that UFC build their fights up better than Pride do on the show itself but if you read the MMA news and know the history of the fighters involved it can be just as interesting.
 

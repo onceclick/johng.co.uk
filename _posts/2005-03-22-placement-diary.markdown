@@ -2,7 +2,7 @@
 wordpress_id: 289
 layout: post
 title: Placement Diary
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/22/placement-diary/
+wordpress_url: http://www.johng.co.uk/2005/03/22/placement-diary/
 ---
 I have been writing a 'diary' while on placement using Live Journal. Reason being that I needed a quick, easy and free way of posting entries which LJ pretty much fulfills. I am approaching the time when I will need to consolidate all these entries into something presentable so I have a few things I could do.
 

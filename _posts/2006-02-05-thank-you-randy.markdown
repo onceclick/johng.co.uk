@@ -2,7 +2,7 @@
 wordpress_id: 471
 layout: post
 title: Thank You Randy
-wordpress_url: http://www.johng.co.uk/index.php/2006/02/05/thank-you-randy/
+wordpress_url: http://www.johng.co.uk/2006/02/05/thank-you-randy/
 ---
 Well Randy Couture has left the UFC with his held high and his legendary status intact, thanks for the fights Randy!
 

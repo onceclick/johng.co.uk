@@ -2,7 +2,7 @@
 wordpress_id: 395
 layout: post
 title: 30 Days Left
-wordpress_url: http://www.johng.co.uk/index.php/2005/06/29/30-days-left/
+wordpress_url: http://www.johng.co.uk/2005/06/29/30-days-left/
 ---
 Just realised I only have thirty days left to go here at work, I can see the light at the end of the tunnel! I am able to get out of here much earlier than contracted till because I have pleanty of annual leave to take, a whole month in fact, to pad out the rest of my tenure. This was always the plan for both financial and personal reasons, the rent saving alone was well worth it.
 

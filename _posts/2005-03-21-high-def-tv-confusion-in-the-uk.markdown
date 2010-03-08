@@ -2,7 +2,7 @@
 wordpress_id: 286
 layout: post
 title: High Def TV Confusion in the UK
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/21/high-def-tv-confusion-in-the-uk/
+wordpress_url: http://www.johng.co.uk/2005/03/21/high-def-tv-confusion-in-the-uk/
 ---
 BBC News are running a <a href="http://news.bbc.co.uk/1/hi/technology/4361543.stm">story</a> covering the UK's confusion with HDTV. I think the main problem at the moment is the lack of education in the difference between digital and HD. For the last few years its been rammed down our throats by the BBC, Sky and at one point ITV that digital is better than analogue and that we must get set top boxes soon because the analogue transmitions will be turned off this decade. So far this strategy has been successful, Freeview has had huge success as the prices of boxes plummeted and Sky has picked up more subscribers than predicted over the last year. For those broadcasters to turn around and ask us to pay for another box and another TV to experience high def will seem like a slap in the face to some people.
 

@@ -2,7 +2,7 @@
 wordpress_id: 302
 layout: post
 title: Valve Announce The Lost Codes and HDR for HL2
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/31/46/
+wordpress_url: http://www.johng.co.uk/2005/03/31/46/
 ---
 I just caught the interview with Doug Lombardi of Valve on 'Attack of the Show' (lazy name). It <a href="http://www.johng.co.uk/2005/03/25/new-half-life-expansion-on-g4techtv-this-week/">previously seemed like an expansion was being announced</a> when they said he was comming on but he would not be drawn on a question from Kevin about an add-on staring Alex. Instead it's a new level for steam subscribers which demonstrates some of the new lighting effects Valve are working on. The level is called 'The Lost Codes' and features high dynamic (HDR) lighting which is Valve's answer to the bloom effect seen in many engines (Unreal 2, GTA3, etc). Unlike bloom though this effect populates the whole scene and made a dramatic difference in the clip they played.
 

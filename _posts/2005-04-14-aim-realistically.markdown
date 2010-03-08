@@ -2,7 +2,7 @@
 wordpress_id: 324
 layout: post
 title: Delusional Students &#038; a Misguided Government
-wordpress_url: http://www.johng.co.uk/index.php/2005/04/14/aston-rant/
+wordpress_url: http://www.johng.co.uk/2005/04/14/aston-rant/
 ---
 Recently myself and several hundred other students at Aston University recieved an email from a disillusioned student within our department (full message <a href="http://www.johng.co.uk/downloads/petition.txt">here</a>). In it he moans about the Computing for Business course he is currently taking and produces this alarming comment early on,
 <blockquote>Unlike other degrees we do not have any easy modules which take our overall average higher. This is unfair as our effort is not reflected in our overall degree result. Most major organisations do not care what degree a graduate has got as long as it is a high 2:1. So why do we have to work so hard and get a low average?</blockquote>

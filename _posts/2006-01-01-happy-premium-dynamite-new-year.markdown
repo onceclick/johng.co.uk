@@ -2,7 +2,7 @@
 wordpress_id: 456
 layout: post
 title: Happy Premium Dynamite New Year
-wordpress_url: http://www.johng.co.uk/index.php/2006/01/01/happy-premium-dynamite-new-year/
+wordpress_url: http://www.johng.co.uk/2006/01/01/happy-premium-dynamite-new-year/
 ---
 Well this is the first post of 2006, a little late but I had to bask in the glory of my previous post. Thanks for all the positive feedback on the video, it was a sper of the moment thing I had to do as soon as I saw it and I am glad you all enjoyed it. Those kind of things only fall into your lap every so often so I had to jump on it.
 

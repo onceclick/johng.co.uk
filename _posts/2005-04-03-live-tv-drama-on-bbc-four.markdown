@@ -2,7 +2,7 @@
 wordpress_id: 305
 layout: post
 title: Live TV Drama on BBC Four
-wordpress_url: http://www.johng.co.uk/index.php/2005/04/03/live-tv-drama-on-bbc-four/
+wordpress_url: http://www.johng.co.uk/2005/04/03/live-tv-drama-on-bbc-four/
 ---
 Only realised the remake of <a href="http://www.bbc.co.uk/bbcfour/cinema/features/quatermass.shtml">Quatermass</a> was on last night after reading an <a href="http://www.guardian.co.uk/uk_news/story/0,,1450615,00.html">article in The Guardian</a> the morning before. For those who don't know Quatermass was an old 50s sci-fi show on the BBC that was performed live due to the technology available at the time. So with this week's one off remake they decided to also perform it live making it the first live TV drama in 20 years.
 

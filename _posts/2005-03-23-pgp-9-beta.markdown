@@ -2,6 +2,6 @@
 wordpress_id: 290
 layout: post
 title: PGP 9 Beta
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/23/pgp-9-beta/
+wordpress_url: http://www.johng.co.uk/2005/03/23/pgp-9-beta/
 ---
 Been trying out <a href="http://www.pgp.com/news/dt9pb.html">PGP Beta 9</a> at work today. So far I am very impressed with the encrypt whole disk feature, its something that should have been in the package along time ago. Its perfect for encrypting a USB drive or second hard drive but I wouldn't recomend it for the boot drive. If windows buggers up or the hard drive fails it won't be recoverable using third party tools due to how the encryption is tightly tied to Windows XP. They really need a Linux and MacOS client for WDE to make it the killer app it should be.

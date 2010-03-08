@@ -8,7 +8,7 @@ Had a bit of a scare last night. While moving some videos from my Ubuntu partiti
 
 On closer inspection my Western Digital hard drive was now appearing in the bios as <code>WDC ROM MODEL-MA</code> when it should have appeared as <code>WDC WD800JD-00HK</code>. The fact it was registering as a 0MB disk in Partition Magic only added to the torture.
 
-So I went to bed last night faced with the prospect of losing my entire music collection and all the documents I had written in the last three years. The ironic thing is <a href="http://www.johng.co.uk/index.php/2005/05/09/new-dvd-burner/">I had bought a DVD writer</a> a few weeks ago for the purpose of backing this all up among other things.
+So I went to bed last night faced with the prospect of losing my entire music collection and all the documents I had written in the last three years. The ironic thing is <a href="http://www.johng.co.uk/2005/05/09/new-dvd-burner/">I had bought a DVD writer</a> a few weeks ago for the purpose of backing this all up among other things.
 
 So I was pleasantly surprised this morning when the drive showed up in the bios as <code>WDC WD800JD-00HK</code> again. Good old WD800 - I knew you'd come back after a good night's rest! I immediately whipped out an old IDE drive, installed Ubuntu, mounted the partitions and copied everything onto removable storage (hard disk and DVD to be sure).
 

@@ -2,7 +2,7 @@
 wordpress_id: 424
 layout: post
 title: Teh Scene
-wordpress_url: http://www.johng.co.uk/index.php/2005/09/03/teh-scene/
+wordpress_url: http://www.johng.co.uk/2005/09/03/teh-scene/
 ---
 Ok I am warning you now this one is for people who have too much time on their hands and are extremely sad.
 

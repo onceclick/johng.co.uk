@@ -2,7 +2,7 @@
 wordpress_id: 475
 layout: post
 title: GTA Franchise Worth $900 Million
-wordpress_url: http://www.johng.co.uk/index.php/2006/02/09/gta-franchise-worth-900-million/
+wordpress_url: http://www.johng.co.uk/2006/02/09/gta-franchise-worth-900-million/
 ---
 <a href="http://biz.gamedaily.com/industry/feature/?id=11802">Interesting article</a> over at GameDaily about the research done into the financial worth of the Grand Theft Auto franchise. Here are the important bits,
 <ul>

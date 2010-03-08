@@ -2,6 +2,6 @@
 wordpress_id: 346
 layout: post
 title: chilli-coated baseball bat
-wordpress_url: http://www.johng.co.uk/index.php/2005/05/09/97/
+wordpress_url: http://www.johng.co.uk/2005/05/09/97/
 ---
 <p><a target="_self" href="http://www.livejournal.com/users/msclark/54084.html">Matt</a> &quot;..beaten around the head with a chilli-coated baseball bat.&quot;</p><p>Ouch.</p>

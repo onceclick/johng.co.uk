@@ -2,7 +2,7 @@
 wordpress_id: 287
 layout: post
 title: Achtung! Brother's in Arms
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/21/32/
+wordpress_url: http://www.johng.co.uk/2005/03/21/32/
 ---
 When I <a href="http://www.johng.co.uk/2005/03/17/brothers-in-arms-this-weekend/">first watched</a> clips of Brothers in Arms I noticed orders were being issued to your squad mates using a blue disc that you hovered over the ground to indicate where they should move to or, more importantly, who they should fire at. This didn't strike me as intuitive but Gearbox have done a fine job implementing it and I soon found myself commanding multiple fire teams (and later tanks) without even thinking about it. This adds a whole new depth to combat and strategy that its closest competitors Medal of Honor and Call of Duty lack. In fact the way enemy units are suppressed and outflanked is more akin to Full Spectrum Warrior released last year on Xbox, but that was pure strategy, there was no direct control when moving and shooting your way through combat zones like BIA manages.
 

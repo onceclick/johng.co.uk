@@ -2,7 +2,7 @@
 wordpress_id: 477
 layout: post
 title: Ever had one of those days?
-wordpress_url: http://www.johng.co.uk/index.php/2006/02/19/ever-had-one-of-those-days/
+wordpress_url: http://www.johng.co.uk/2006/02/19/ever-had-one-of-those-days/
 ---
 I don't normally go into the intricacies of my life on here, partly becuase I find that kind of blogging mundane and boring as hell but what the fuck I feel like shit so here goes.
 

@@ -2,7 +2,7 @@
 wordpress_id: 469
 layout: post
 title: Gtalkr Makes Me Drool
-wordpress_url: http://www.johng.co.uk/index.php/2006/02/03/gtalkr-makes-me-drool/
+wordpress_url: http://www.johng.co.uk/2006/02/03/gtalkr-makes-me-drool/
 ---
 Ok if you think AJAX is just another web development fad check out whats going on over at <a href="https://gtalkr.com/">Gtalkr</a>.
 

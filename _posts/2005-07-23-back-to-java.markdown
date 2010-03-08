@@ -2,7 +2,7 @@
 wordpress_id: 415
 layout: post
 title: Back to Java
-wordpress_url: http://www.johng.co.uk/index.php/2005/07/23/back-to-java/
+wordpress_url: http://www.johng.co.uk/2005/07/23/back-to-java/
 ---
 I got my final year project confirmation through from <a href="http://www.aston.ac.uk">University</a> last week. It's going to involve doing a lot of work on visualising large tree structures from XML files built off an existing open source Java project. I haven't writen a single line of Java this year and when I tried any programming I was always concentrating on C++ (W32 and DirectX) and C# (.NET and Mono). So this week I have been doing a few warm up exercises to refresh my memory.
 

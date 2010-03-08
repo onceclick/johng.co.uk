@@ -2,7 +2,7 @@
 wordpress_id: 320
 layout: post
 title: Use the Force Luke (make mobos smaller)
-wordpress_url: http://www.johng.co.uk/index.php/2005/04/11/use-the-force-luke-and-make-mobos-smaller/
+wordpress_url: http://www.johng.co.uk/2005/04/11/use-the-force-luke-and-make-mobos-smaller/
 ---
 How long ago was the nano-itx announced? It's a long time and it still isn't out on the shelves, I am one of the crazy people who put off buying a mini-itx system because I thought the nano would be out sometime this centaury. The last time I saw it was a segment by <a href="http://www.kevinrose.com">Kevin Rose</a> on the now defunct (or is that renamed) G4 show <em>The Screen Savers</em>.
 

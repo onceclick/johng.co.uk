@@ -2,7 +2,7 @@
 wordpress_id: 275
 layout: post
 title: "The biggest E3 ever: Sony, MS &#038; Nintendo Console Clash"
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/16/the-biggest-e3-ever/
+wordpress_url: http://www.johng.co.uk/2005/03/16/the-biggest-e3-ever/
 ---
 When E3 rolls around in a few months time the whole gaming landscape is going to change. Quite simply this will be the biggest E3 ever as all the major console manufacturers announcing their next generation hardware at this years show. Previously we have had announcements spread out and bits of information trickled out at different shows and conferences but the big three are going to announce and display their new hardware for all to see.
 

@@ -2,7 +2,7 @@
 wordpress_id: 428
 layout: post
 title: 24 Marathon in this House
-wordpress_url: http://www.johng.co.uk/index.php/2005/09/18/24-marathon-in-this-house/
+wordpress_url: http://www.johng.co.uk/2005/09/18/24-marathon-in-this-house/
 ---
 As I write this my brother and some friends have just started a TV marathon of 24 season 1. Yes it's true, they will be watching TV for 24 hours from midnight today till midnight tomorrow (just like timing of the show). Fair play to them and I aplaud their effort but I can't see them finishing it in one stint. My money is on 12 hours tops but I'd like them to prove me wrong.
 

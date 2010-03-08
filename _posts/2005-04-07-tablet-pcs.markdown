@@ -2,7 +2,7 @@
 wordpress_id: 310
 layout: post
 title: Tablet PCs
-wordpress_url: http://www.johng.co.uk/index.php/2005/04/07/tablet-pcs/
+wordpress_url: http://www.johng.co.uk/2005/04/07/tablet-pcs/
 ---
 Been looking into Tablet PCs recently after Scoble <a href="http://radio.weblogs.com/0001011/2005/04/04.html#a9812">pointed out</a> this <a href="http://www.microsoft.com/winme/0503/24295/dustin_hubbard_new_tabletpc_experience_revised.asx">cool video</a> on his site. Everywhere I look now I see tablets, on Sky News, <a href="http://www.curry.com/2005/04/02#a5015">Adam Curry even has one</a> and my friend <a href="http://www.patelweb.co.uk">Jay</a> keeps sending me snippets from his.
 

@@ -2,7 +2,7 @@
 wordpress_id: 291
 layout: post
 title: Dr Who Leaker Sacked
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/24/dr-who-leaker-sacked/
+wordpress_url: http://www.johng.co.uk/2005/03/24/dr-who-leaker-sacked/
 ---
 The <a href="http://media.guardian.co.uk/site/story/0,14173,1444303,00.html">BBC announced today</a> that the person responsible for the Dr Who leak in Canada has been fired. It still feels intentional to me though, they have managed to create a huge buzz just by leaking the first episode and that buzz continues with more stories like this popping up every week. As The Guardian points out its great timing just days before its shown on British TV. Eccleston's comments were overkill though.
 

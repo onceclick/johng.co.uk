@@ -2,7 +2,7 @@
 wordpress_id: 298
 layout: post
 title: Is a Game a True Sequel if its Prequel's Engine is Reused?
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/27/is-a-game-a-true-sequel-if-the-engine-is-reused/
+wordpress_url: http://www.johng.co.uk/2005/03/27/is-a-game-a-true-sequel-if-the-engine-is-reused/
 ---
 Had an interesting discussion with my bro the other night about videogame sequels reusing the engine from their prequel. Personally being from a PC gaming background I kind of feel that the next iteration of a game should be pushing the hardware further and thus it's only a true sequel if such a substantial change is made. Any thing else is just a glorified expansion pack really, isn't it? Well he made a good point about furthering story lines and new environments, the example we kept going back to was Splinter Cell: Pandora Tomorrow which was really a stop gap until Chaos Theory that uses a totally updated engine.
 

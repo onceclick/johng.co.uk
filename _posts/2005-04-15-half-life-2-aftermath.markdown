@@ -2,9 +2,9 @@
 wordpress_id: 325
 layout: post
 title: "Half-Life 2: Aftermath"
-wordpress_url: http://www.johng.co.uk/index.php/2005/04/15/half-life-2-aftermath/
+wordpress_url: http://www.johng.co.uk/2005/04/15/half-life-2-aftermath/
 ---
-I Received this month's issue of PC Gamer yesterday and read their <a href="http://www.johng.co.uk/index.php/2005/04/09/half-life-2-aftermath-revealed-in-pc-gamer-uk/">world exclusive</a> on the future of Half-Life last night. Half-Life 2: Aftermath is an expansion to the best game of 2004 but will not be similar in approach to the expansions of the original game. Unlike Opposing Force and Blue Shift which had us playing the role of a marine and a security guard with stories running parallel to that of Gordon Freeman, this time the story picks up right at the end of Half-Life 2.
+I Received this month's issue of PC Gamer yesterday and read their <a href="http://www.johng.co.uk/2005/04/09/half-life-2-aftermath-revealed-in-pc-gamer-uk/">world exclusive</a> on the future of Half-Life last night. Half-Life 2: Aftermath is an expansion to the best game of 2004 but will not be similar in approach to the expansions of the original game. Unlike Opposing Force and Blue Shift which had us playing the role of a marine and a security guard with stories running parallel to that of Gordon Freeman, this time the story picks up right at the end of Half-Life 2.
 
 From the small amount of info revealed in screen shots and the interview it seems the first section of this expansion will be the escape from the crumbling citadel after the massive explosion at the end of HL2.
 

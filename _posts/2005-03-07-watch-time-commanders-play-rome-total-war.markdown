@@ -2,7 +2,7 @@
 wordpress_id: 264
 layout: post
 title: Watch Time Commanders = Play Rome Total War
-wordpress_url: http://www.johng.co.uk/index.php/2005/03/07/watch-time-commanders-play-rome-total-war/
+wordpress_url: http://www.johng.co.uk/2005/03/07/watch-time-commanders-play-rome-total-war/
 ---
 Very rarely do I go back to games after playing them to death, but after <a href="http://www.johng.co.uk/2005/03/07/finished-knight-of-the-old-republic-2/"> finishing KOTOR2</a> there are no new games out that are of interest to me. So last Sunday night I had BBC 2 on in the background whilst doing some cooking and <a href="http://www.totalwar.com/time.htm">Time Commanders</a> came on. If you don¬ít know its a history/game show where contestants command armies in reenactments of historical battles. Its all lovingly recreated in the <a href="http://www.totalwar.com">Rome: Total War</a> game engine which was released late last year and was one of the top games of 2004. As soon as Richard ¬ìTop Gear¬î Hammond got them started on the first battle I was back in Total War mode again trying to out think the enemy and, more importantly, make better judgments than the feeble contestants were capable of. They came up with some interesting strategies for this battle (the battle of Hastings this episode) and I was keen to try them, so as soon as the show was over I reinstalled RTW and got going on a new campaign.
 

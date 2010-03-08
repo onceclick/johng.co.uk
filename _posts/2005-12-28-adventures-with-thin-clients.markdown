@@ -2,7 +2,7 @@
 wordpress_id: 447
 layout: post
 title: Adventures with Thin Clients
-wordpress_url: http://www.johng.co.uk/index.php/2005/12/28/adventures-with-thin-clients/
+wordpress_url: http://www.johng.co.uk/2005/12/28/adventures-with-thin-clients/
 ---
 I am essentially running a thin client in the loose sense of the word here at home over the Christmas break. My music, documents, code and many of my applications are still being stored and run on my box at uni. As such watching my newly aquired DVDs has proven to be quite the problem as the box I have here isn't equiped with a DVD drive.
 

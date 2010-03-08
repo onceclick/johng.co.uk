@@ -2,7 +2,7 @@
 wordpress_id: 385
 layout: post
 title: GTA Statsohol
-wordpress_url: http://www.johng.co.uk/index.php/2005/06/21/gta-statsohol/
+wordpress_url: http://www.johng.co.uk/2005/06/21/gta-statsohol/
 ---
 <a href="http://www.thegtaplace.com/sastats/index.php?user=johng">2147 people wasted!</a> Not bad.
 
