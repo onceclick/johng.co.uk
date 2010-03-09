@@ -10,4 +10,4 @@ Maximum whoopage!
 
 Get it <a href="http://www.openoffice.org">here</a>. See what has changed <a href="http://development.openoffice.org/releases/2.0.2rc4.html">here</a>.
 
-<strong>Update: </strong>More importantly the thesaurus for British English now works.
+**Update: **More importantly the thesaurus for British English now works.

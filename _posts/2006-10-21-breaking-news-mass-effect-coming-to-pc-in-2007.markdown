@@ -8,7 +8,7 @@ Just received my subscribers copy of PC Gamer and was shocked to turn the page a
 <blockquote>Mass Effect will come to PC (it's currently only announced for Xbox 360): it's not been officially confirmed but we have it on good authority. It's been three years since a BioWare developed game hit the PC: Mass Effect is a forceful reminder of why that's too damn long.</blockquote>
 Not officially anounced by BioWare yet but you can be safe in the knowledge the PC Gamer UK is a trust worthy source and would never have taken this to press if it were false.
 
-<strong>UPDATE:</strong>
+**UPDATE:**
 
 Here are some photos of the mag taken with my camera phone (sorry that's all I have here right now)
 

@@ -4,7 +4,7 @@ layout: post
 title: UFC 60 Thoughts
 wordpress_url: http://www.johng.co.uk/2006/05/28/ufc-60-thoughts/
 ---
-<strong>QUICK RANT AT UFC: </strong>Change the bloody opening sequence with the gladiator and crappy music - it's years old and I'm sick of it. Now your raking in the big bucks you can afford to up the production values slightly, hell, you have done it on the TV shows and people aren't paying $40 to see them. <strong>END OF QUICK RANT AT UFC</strong>.
+**QUICK RANT AT UFC: **Change the bloody opening sequence with the gladiator and crappy music - it's years old and I'm sick of it. Now your raking in the big bucks you can afford to up the production values slightly, hell, you have done it on the TV shows and people aren't paying $40 to see them. **END OF QUICK RANT AT UFC**.
 
 Man that was one heck of a <a href="http://www.fightopinion.com/2006/05/27/ufc-60-aftermath/">good PPV</a>. Considering this show was built around one single fight my expectations were fairly low but they delivered and then some. Only one fight went to a decision and that got really entertaining at the end as it was a two minute piggy back ride.
 

@@ -12,6 +12,6 @@ Most importantly of all though are the drivers and their stability. Using the la
 
 The Lost Planet DX10 demo is out there somewhere so I need to give that a try and I am definitely looking forward to playing many of the PC games I have missed over the last couple of months. Crysis looks amazing and I really feel that will be the big test for this card.
 
-This card can also pump out full 1080p HD over HDMI <strong>with audio</strong>. That is huge. The 2400 and 2600 cards due out next month are going to be perfect media center cards for this reason alone and with the drop in CPU prices I feel a dedicated TV box coming on.
+This card can also pump out full 1080p HD over HDMI **with audio**. That is huge. The 2400 and 2600 cards due out next month are going to be perfect media center cards for this reason alone and with the drop in CPU prices I feel a dedicated TV box coming on.
 
 So in short - it's nice to have you back ATI, it was a long time coming but at least you can write and maintain decent drivers.

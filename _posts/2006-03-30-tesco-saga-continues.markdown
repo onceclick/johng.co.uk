@@ -14,6 +14,6 @@ She offered me a ¬£10 discount which isn't nearly enough for the trouble we ha
 
 I hope for their sake that it comes tomorrow.
 
-<strong>UPDATE: </strong>Order finally arived at 1:30pm (44 hours late)
+**UPDATE: **Order finally arived at 1:30pm (44 hours late)
 
-<strong>UPDATE 2: </strong>Thanks to Matt for pointing out some of you may be seeing Google ads for Tesco even though I am bashing them on this site. I am rather conflicted on whether you should click on them or not ;-).
+**UPDATE 2: **Thanks to Matt for pointing out some of you may be seeing Google ads for Tesco even though I am bashing them on this site. I am rather conflicted on whether you should click on them or not ;-).

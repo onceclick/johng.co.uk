@@ -14,4 +14,4 @@ So we have finally returned to MMA madness after a few weeks off post UFC 66, ju
 	<li>UFC 68 - Please destroy Sylvia Randy, please!
 </ul>
 
-<strong>FUN</strong>
+**FUN**

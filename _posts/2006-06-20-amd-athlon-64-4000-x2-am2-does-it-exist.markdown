@@ -10,6 +10,6 @@ I need this chip - I have been searching for weeks and it's driving me mad.
 
 The winner can expect full payment via paypal.
 
-<strong>UPDATE: COMPETITION CLOSED!</strong>
+**UPDATE: COMPETITION CLOSED!**
 
 Lowestonweb have just got some in. Go get em <a href="http://www.lowestonweb.com/Products/DisplayInfoMain.asp?e=21443F4C-BA7F-4CF3-881B-5C7F6EC03A3F">here</a> people. Mine is on its way.

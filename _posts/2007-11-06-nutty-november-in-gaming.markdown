@@ -6,24 +6,24 @@ wordpress_url: http://www.johng.co.uk/2007/11/06/nutty-november-in-gaming/
 ---
 In case you needed reminding this is what November has in store (for me at least):
 
-<strong>9th</strong>
+**9th**
 <ul>
 	<li>Call of Duty 4: Modern Warfare</li>
 	<li>Gears of War PC</li>
 </ul>
-<strong>16th</strong>
+**16th**
 <ul>
 	<li>Assassin's Creed</li>
 	<li>Crysis</li>
 </ul>
-<strong>23rd</strong>
+**23rd**
 <ul>
 	<li>Guitar Hero III</li>
 	<li>Mass Effect</li>
 	<li>Kane and Lynch</li>
 	<li>Supreme Commander: Forged Alliance</li>
 </ul>
-<strong>30th</strong>
+**30th**
 <ul>
 	<li>Unreal Tournament III</li>
 	<li>Advance Wars 2</li>

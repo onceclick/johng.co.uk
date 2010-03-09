@@ -8,5 +8,5 @@ I've uploaded scans (click the thumbnails below) of the document <a href="http:/
 
 More funny though are the other charges. Apparently a crappy chest of drawers is worth ¬£140 and a chair that wouldn't look out of place in a scrap yard is worth ¬£85. There are plenty of amusing ones on there so take a look below.
 
-<strong>IT WOULD BE NICE TO HEAR FROM MY OLD FLATMATES ON THIS ONE. PLEASE COMMENT.</strong>
+**IT WOULD BE NICE TO HEAR FROM MY OLD FLATMATES ON THIS ONE. PLEASE COMMENT.**
 <div align="center"><a href="http://www.johng.co.uk/wp-content/uploads/2006/07/1qual.jpg"><img width="92" height="128" alt="Page 1" id="image301" src="http://www.johng.co.uk/wp-content/uploads/2006/07/1qual.thumbnail.jpg" /></a>  <a href="http://www.johng.co.uk/wp-content/uploads/2006/07/2qual.jpg"><img width="92" height="128" id="image303" alt="Page 2" src="http://www.johng.co.uk/wp-content/uploads/2006/07/2qual.thumbnail.jpg" /></a></div>

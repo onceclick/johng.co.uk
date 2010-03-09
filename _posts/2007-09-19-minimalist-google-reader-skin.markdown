@@ -16,5 +16,5 @@ After:
 
 <a href="http://www.johng.co.uk/wp-content/uploads/2007/09/reader_after.png" title="Google Reader After"></a>
 <p style="text-align: center"><a href="http://www.johng.co.uk/wp-content/uploads/2007/09/reader_after.png" title="Google Reader After"><img src="http://www.johng.co.uk/wp-content/uploads/2007/09/reader_after.png" ilo-full-src="http://www.johng.co.uk/wp-content/uploads/2007/09/reader_after.png" alt="Google Reader After" height="153" width="500" /></a></p>
-<p style="text-align: left" align="left"><strong>Updated 27th September 2007:</strong></p>
+<p style="text-align: left" align="left">**Updated 27th September 2007:**</p>
 <p style="text-align: left" align="left">Google added a menu that cocked it up so I have updated the script remove the menu.</p>

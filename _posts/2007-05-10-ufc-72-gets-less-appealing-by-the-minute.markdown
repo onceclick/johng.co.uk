@@ -4,7 +4,7 @@ layout: post
 title: UFC 72 Gets Less Appealing by the Minute
 wordpress_url: http://www.johng.co.uk/2007/05/10/ufc-72-gets-less-appealing-by-the-minute/
 ---
-Read <a href="http://www.mad-squabbles.com/2007/05/ufc72-no-longer-on-spike-tv.html">this</a> for a good rag on the UFC 72 card. Now it seems <a href="http://www.fightopinion.com/2007/05/09/thursday-trash-talk-boxing-is-cash-money/">Forrest Griffin may be out too</a> (<strong>UPDATE: </strong>He's back on). This is the kind of card I would forget to watch on TV let alone one I would want to fly to Belfast for. It's also in the busiest month of MMA since last month! Which would make it the busiest month ever and there isn't even a Pride show! Spot the odd one out:
+Read <a href="http://www.mad-squabbles.com/2007/05/ufc72-no-longer-on-spike-tv.html">this</a> for a good rag on the UFC 72 card. Now it seems <a href="http://www.fightopinion.com/2007/05/09/thursday-trash-talk-boxing-is-cash-money/">Forrest Griffin may be out too</a> (**UPDATE: **He's back on). This is the kind of card I would forget to watch on TV let alone one I would want to fly to Belfast for. It's also in the busiest month of MMA since last month! Which would make it the busiest month ever and there isn't even a Pride show! Spot the odd one out:
 
 UFC 71 - Jackson vs Liddell
 K-1 US - Lesnar's debut, Sakuraba vs Gracie 2, more Carano
