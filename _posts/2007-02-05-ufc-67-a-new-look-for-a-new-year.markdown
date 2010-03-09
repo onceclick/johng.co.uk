@@ -8,4 +8,6 @@ Finally with the move to HD and at the first PPV of 2007 the <a href="http://www
 
 Although I didn't watch the show in HD initially I did manage to catch a couple of the fights in High Def the following day. Just check out the crispyness of these caps:
 
-<div align=center><a href="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast1.jpg"><img ilo-full-src="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast1.thumbnail.jpg" id="image396" src="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast1.thumbnail.jpg" alt="Rampage vs Eastman 1" /></a><a href="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast2.jpg"><img ilo-full-src="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast2.thumbnail.jpg" id="image397" src="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast2.thumbnail.jpg" alt="Rampage vs Eastman 2" /></a></div>
+<a href="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast1.jpg"><img ilo-full-src="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast1.thumbnail.jpg" id="image396" src="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast1.thumbnail.jpg" alt="Rampage vs Eastman 1" /></a>
+
+<a href="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast2.jpg"><img ilo-full-src="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast2.thumbnail.jpg" id="image397" src="http://www.johng.co.uk/wp-content/uploads/2007/02/rampeast2.thumbnail.jpg" alt="Rampage vs Eastman 2" /></a>
