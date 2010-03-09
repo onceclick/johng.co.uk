@@ -5,7 +5,8 @@ title: MMA via iTunes? Yes please!
 wordpress_url: http://www.johng.co.uk/2006/01/23/mma-via-itunes-yes-please/
 ---
 Zach Arnold <a href="http://www.fightopinion.com/2006/01/23/fight-opinion-radio-file-sharing/">continues the discussion</a> on P2P but in the context of the MMA and Pro Wrestling community,
-<blockquote>For those of you who watch video of fight clips online, how popular is this trend becoming with both you and your friends? Do you use Google Video or do you strictly use BT? I am not asking you to name legal or illegal file sharing sites, but I am curious as to the methods in which you watch fight videos online and if you prefer watching video online as opposed to watching it on DVD.</blockquote>
+
+> For those of you who watch video of fight clips online, how popular is this trend becoming with both you and your friends? Do you use Google Video or do you strictly use BT? I am not asking you to name legal or illegal file sharing sites, but I am curious as to the methods in which you watch fight videos online and if you prefer watching video online as opposed to watching it on DVD.</blockquote>
 I wouldn't dream of naming sites or sources, that's something you find out on a need to know basis only, so you can stop reading if you looking for that here.
 
 Being from the UK and living in rented accommodation without satalite or cable television but with a broadband connection this is how I see all MMA and Pro Wrestling events. It's not that I want to dodge paying for additional TV services or buying PPVs, I just do not have the option to.

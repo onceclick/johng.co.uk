@@ -10,6 +10,6 @@ Unfortunately for heaven Kenny is revived 24 hours after being pronounced dead a
 
 For me the best moment comes at the finale when the army of hell have reached the gates of heaven and Kenny is back in command after having his feeding tube removed. It¬ís so much like the end of the LOTR its ridiculous. By this time I am nearly screaming out LOTR at my screen, but then the spectating angel who has been commentating on the battle says,
 
-<blockquote>My god! My god! This battle is epic.....My god this battle is even bigger than the one at the end of the Lord of the Rings movie, its, its like ten times bigger than that battle!</blockquote>
+> My god! My god! This battle is epic.....My god this battle is even bigger than the one at the end of the Lord of the Rings movie, its, its like ten times bigger than that battle!
 
 Some people say South Park is crude but that was perfectly timed subversive satire. Hats off to Matt and Trey for this one.
