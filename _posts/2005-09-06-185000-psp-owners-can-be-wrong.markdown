@@ -10,7 +10,7 @@ Initially I was surprised by the figure but when we look at the launch it's clea
 
 <img src="http://www.johng.co.uk/wp-content/images/psp.jpg" alt="PSP" />
 
-So 185,000 isn't as crazy as it sounds but by making the PSP a 'jack of all trades' it has become lackluster in all the areas it has taken a stab at. The media player aspect is frankly shocking. We are expected to buy all our movies again in UMD format when the DVDs we have are of higher quality, with more features and less expensive. On the audio side this is not the iPod rival Sony claim it to be, they are selling 1GB memory sticks for almost ¬£100 in UK stores which makes it an impractical and expensive competitor.
+So 185,000 isn't as crazy as it sounds but by making the PSP a 'jack of all trades' it has become lackluster in all the areas it has taken a stab at. The media player aspect is frankly shocking. We are expected to buy all our movies again in UMD format when the DVDs we have are of higher quality, with more features and less expensive. On the audio side this is not the iPod rival Sony claim it to be, they are selling 1GB memory sticks for almost £100 in UK stores which makes it an impractical and expensive competitor.
 
 As for the games (don't forget this is a games console also) it would be easy to think you were looking at the PS2's line up looking down the list of launch titles. With Ridge Racer as the top selling game in the UK it doesn't fill me with confidence that the system will deliver quality original gaming experiences not already available on the PS2.
 

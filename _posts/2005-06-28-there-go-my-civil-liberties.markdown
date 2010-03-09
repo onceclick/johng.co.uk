@@ -6,7 +6,7 @@ wordpress_url: http://www.johng.co.uk/?p=144
 ---
 The government are trying to <a href="http://news.bbc.co.uk/1/hi/uk_politics/4628641.stm">push ID cards through the commons</a> again but they still don¬ít seem to realise we don¬ít want them for a number of important reasons.
 
-Firstly the cost is astronomical and it could increase to ¬£19 billion according to the LSE, looks like we will wind up with another over priced system, something that the <a href="http://news.bbc.co.uk/1/hi/health/3734504.stm">NHS can tell us all about</a>.
+Firstly the cost is astronomical and it could increase to £19 billion according to the LSE, looks like we will wind up with another over priced system, something that the <a href="http://news.bbc.co.uk/1/hi/health/3734504.stm">NHS can tell us all about</a>.
 
 <img src="http://www.johng.co.uk/wp-content/images/idcard.jpg" align="right" vspace=3 hspace=5 alt="ID Card" />Will it prevent terrorism? What terrorism? I am sure the police, intelligence services and the army are doing their best to insure this country does not come under attack from extremists but the simple fact is that the threat to this country has been exaggerated to a ridiculous and unrealistic level. The terrorists are not a well oiled machine with an international network that the Bush and Blair administrations would have us believe. So the impact of any such scheme would be minimal, if at all, on the small threat we face.
 
