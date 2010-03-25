@@ -4,7 +4,7 @@ layout: post
 title: Xbox 360 Opened Up to Homebrew
 wordpress_url: http://www.johng.co.uk/2006/08/14/xbox-360-opened-up-to-homebrew/
 ---
-<a href="http://blogs.guardian.co.uk/games/archives/2006/08/14/xbox_360_opens_up_to_indie_coders.html">This</a> is <a href="http://www.gamasutra.com/php-bin/news_index.php?story=10458">great</a> <a href="http://news.bbc.co.uk/1/hi/technology/4789809.stm">news</a> coming from Microsoft today. Indie developers are going to be given the chance to make their own games for the 360 in an official capacity. We all know the vibrant homebrew scene on the original Xbox led to some awesome apps but this will be the time Microsoft officially recognise it.
+[This](http://blogs.guardian.co.uk/games/archives/2006/08/14/xbox_360_opens_up_to_indie_coders.html) is [great](http://www.gamasutra.com/php-bin/news_index.php?story=10458) [news](http://news.bbc.co.uk/1/hi/technology/4789809.stm) coming from Microsoft today. Indie developers are going to be given the chance to make their own games for the 360 in an official capacity. We all know the vibrant homebrew scene on the original Xbox led to some awesome apps but this will be the time Microsoft officially recognise it.
 
 From the announcement it seems as though developers will use the SDK to develop and then submit the games online where they can be downloaded. What I don't understand is how restricted will this be. If ported a SNES emulator over to the 360 for instance would it be blocked by MS? Is it even possible to do this in the first place?
 

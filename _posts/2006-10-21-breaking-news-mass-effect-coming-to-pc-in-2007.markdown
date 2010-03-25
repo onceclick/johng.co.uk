@@ -14,4 +14,5 @@ Not officially anounced by BioWare yet but you can be safe in the knowledge the 
 
 Here are some photos of the mag taken with my camera phone (sorry that's all I have here right now)
 
-<a href="http://www.johng.co.uk/wp-content/uploads/2006/10/dsc00306-small.JPG"><img src="http://www.johng.co.uk/wp-content/uploads/2006/10/dsc00306-small.thumbnail.JPG" id="image334" alt="masseffect2" /></a> <a href="http://www.johng.co.uk/wp-content/uploads/2006/10/dsc00301-small.JPG"><img src="http://www.johng.co.uk/wp-content/uploads/2006/10/dsc00301-small.thumbnail.JPG" id="image333" alt="masseffect1" /></a>
+![](http://www.johng.co.uk/wp-content/uploads/2006/10/dsc00306-small.JPG)
+![](http://www.johng.co.uk/wp-content/uploads/2006/10/dsc00301-small.JPG)

@@ -4,7 +4,10 @@ layout: post
 title: Update
 wordpress_url: http://www.johng.co.uk/2006/04/08/update/
 ---
-<img align="right" title="hyperbolic" id="image269" alt="hyperbolic" src="http://www.johng.co.uk/wp-content/uploads/2006/04/poincare.gif" />All quiet on the blogging front recently, hyperbolic geometry is keeping me busy. Once I finish my  dissertation it's straight into exams for a couple of weeks until I pop out a free man on the 16th May.
+
+![](http://www.johng.co.uk/wp-content/uploads/2006/04/poincare.gif)
+
+All quiet on the blogging front recently, hyperbolic geometry is keeping me busy. Once I finish my  dissertation it's straight into exams for a couple of weeks until I pop out a free man on the 16th May.
 
 That will be interesting. I'll be unemployed!
 

@@ -8,7 +8,7 @@ South Park's extremely fast production time means they can be bang up to date wi
 
 Unfortunately for heaven Kenny is revived 24 hours after being pronounced dead and being kept alive in the same way as Terri Schiavo. So we wind up with some great scenes that sum up the debate that has been happening better than any of the news channels, hell are happy with Kenny being alive as he can't help heaven so they go to the Republicans "like they always do" to try and keep his feeding tube in.
 
-For me the best moment comes at the finale when the army of hell have reached the gates of heaven and Kenny is back in command after having his feeding tube removed. It¬ís so much like the end of the LOTR its ridiculous. By this time I am nearly screaming out LOTR at my screen, but then the spectating angel who has been commentating on the battle says,
+For me the best moment comes at the finale when the army of hell have reached the gates of heaven and Kenny is back in command after having his feeding tube removed. It 's so much like the end of the LOTR its ridiculous. By this time I am nearly screaming out LOTR at my screen, but then the spectating angel who has been commentating on the battle says,
 
 > My god! My god! This battle is epic.....My god this battle is even bigger than the one at the end of the Lord of the Rings movie, its, its like ten times bigger than that battle!
 

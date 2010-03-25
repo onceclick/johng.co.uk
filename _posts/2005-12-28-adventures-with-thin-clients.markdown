@@ -10,6 +10,8 @@ The fact that I can't slap a DVD into another PC on our network and share it bec
 
 It's fair use out of the window once again.
 
-<img width="74" hspace="5" height="96" border="3" align="right" alt="VLC" id="image206" src="http://www.johng.co.uk/wp-content/uploads/2005/12/conesoppera10.thumbnail.png" />So the last resort solution is use <a href="http://www.videolan.org">VideoLAN</a> and stream it explicitly between two PCs. It's far from ideal as you have no menu control or any control for that matter on the client system and have to keep going back to the server to do anything.
+![](http://www.johng.co.uk/wp-content/uploads/2005/12/conesoppera10.thumbnail.png)
+
+So the last resort solution is use <a href="http://www.videolan.org">VideoLAN</a> and stream it explicitly between two PCs. It's far from ideal as you have no menu control or any control for that matter on the client system and have to keep going back to the server to do anything.
 
 It may take a little longer than usual to get through the raft of DVDs I have recieved for Christmas this year.
