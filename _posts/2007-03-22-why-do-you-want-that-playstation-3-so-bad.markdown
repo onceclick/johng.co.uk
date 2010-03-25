@@ -10,8 +10,8 @@ Looking back to November 2000 when the PS2 launched I had many of the same feeli
 
 The same is true today as it was back then - Sony are cashing in on name and brand alone. I couldn't fathom the PS2 missing all those features that their competitors had, it just seemed arrogant, as if Sony were saying "This is the Playstation, there is only Playstation, you must buy it."
 
-> **Arrogance** (Ar"ro*gance) (#), n.
-> [F., fr. L. arrogantia, fr. arrogans. See Arrogant.]
+> **Arrogance** (Ar"ro\*gance) (#), n.
+> \[F., fr. L. arrogantia, fr. arrogans. See Arrogant.\]
 
 > The act or habit of arrogating, or making undue claims in an overbearing manner; that species of pride which consists in exorbitant claims of rank, dignity, estimation, or power, or which exalts the worth or importance of the person to an undue degree; proud contempt of others; lordliness; haughtiness; self-assumption; presumption. "I hate not you for her proud **arrogance**." <em>Shak.</em>
 

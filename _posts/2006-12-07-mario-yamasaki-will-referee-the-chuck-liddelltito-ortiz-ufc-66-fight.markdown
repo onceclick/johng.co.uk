@@ -6,4 +6,4 @@ wordpress_url: http://www.johng.co.uk/2006/12/07/mario-yamasaki-will-referee-the
 ---
 <a href="http://www.thefightnetwork.com/news_detail.php?nid=2805">WTF!</a>
 
-[via <a href="http://www.fightopinion.com/2006/12/06/thursday-media-notes-2/">FightOpinion</a>]
+via <a href="http://www.fightopinion.com/2006/12/06/thursday-media-notes-2/">FightOpinion</a>

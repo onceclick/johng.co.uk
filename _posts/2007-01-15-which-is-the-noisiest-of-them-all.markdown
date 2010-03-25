@@ -8,4 +8,4 @@ Between heavy multiplayer sessions of Rainbow Six Vegas you can't help but notic
 
 It would seem in an effort to reduce load times all the modern consoles have been given the fastest drives possible with no consideration for the noise they produce. The best recommendation for 360, Wii and PS3 owners? Just play Lumies Live, Bomberman '93 and Gran Turismo HD - no disk thrashing involved!
 
-[via <a href="http://www.engadget.com/2007/01/15/console-showdown-which-produces-the-most-noise/">Engadget</a>]
+via <a href="http://www.engadget.com/2007/01/15/console-showdown-which-produces-the-most-noise/">Engadget</a>

@@ -4,7 +4,10 @@ layout: post
 title: The Randy Couture Situation
 wordpress_url: http://www.johng.co.uk/2007/10/20/the-randy-couture-situation/
 ---
-<img src="http://www.johng.co.uk/wp-content/uploads/2007/10/coutureoc0.jpg" alt="Couture" align="right" />Time to add my thoughts - better late than never.
+
+![](http://www.johng.co.uk/wp-content/uploads/2007/10/coutureoc0.jpg)
+
+Time to add my thoughts - better late than never.
 
 Randy and Dana have both made their arguments. Dana insists Randy was happy with his contract when he signed 8 months ago and didn't attempt to renegotiate before quitting. Randy says Dana the Fertitas lied to him about being the second most  highly paid fighter in the company and they failed to secure the big fight with Fedor.
 

@@ -12,4 +12,4 @@ It really pisses me off when these manufacturers flaunt the standards and format
 
 Until we get a proper, true, <em>authentic</em> widescreen iPod with decent battery life and a larger storage capacity this is a non starter. No sale Apple!
 
-[via <a href="http://www.engadget.com/2007/01/17/the-widescreen-iphone-not-so-widescreen/">Engadget</a>]
+via <a href="http://www.engadget.com/2007/01/17/the-widescreen-iphone-not-so-widescreen/">Engadget</a>

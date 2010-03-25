@@ -4,7 +4,7 @@ layout: post
 title: CouchDB - A Next Generation Database
 wordpress_url: http://www.johng.co.uk/?p=1681
 ---
-<a href="http://www.johng.co.uk/wp-content/uploads/2010/02/Couchdb-logo.png"><img class="size-full wp-image-1691 alignright" title="Couchdb-logo" src="http://www.johng.co.uk/wp-content/uploads/2010/02/Couchdb-logo.png" alt="" width="170" height="151" /></a>Over the last few months I have been digging more and more into <a href="http://nosql-database.org/">NoSQL</a> databases. I initially tried several out but my focus remained on <a href="http://couchdb.apache.org/">CouchDB</a> because of it's accessibility and well thought out design.
+[![](http://www.johng.co.uk/wp-content/uploads/2010/02/Couchdb-logo.png)](http://www.johng.co.uk/wp-content/uploads/2010/02/Couchdb-logo.png)Over the last few months I have been digging more and more into <a href="http://nosql-database.org/">NoSQL</a> databases. I initially tried several out but my focus remained on <a href="http://couchdb.apache.org/">CouchDB</a> because of it's accessibility and well thought out design.
 
 Everything in CouchDB has been very well planned out from a modern, web facing perspective. I'm specifically talking about the RESTful HTTP interaction with the database, the JSON document format and the ability to construct a complex MapReduce with pure Javascript. These all combine into the most credible alternative to traditional SQL databases.
 

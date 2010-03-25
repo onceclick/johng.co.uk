@@ -8,4 +8,4 @@ There is a <a href="http://www.tvsquad.com/2007/01/31/matt-groening-talks-about-
 
 Futurama returns with 16 new episodes in 2008.
 
-[via <a href="http://digg.com/television/Matt_Groening_talks_about_Futurama_s_comeback">Digg</a>]
+via <a href="http://digg.com/television/Matt_Groening_talks_about_Futurama_s_comeback">Digg</a>
