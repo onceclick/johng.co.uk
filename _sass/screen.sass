@@ -1,10 +1,11 @@
 @import blueprint/reset.sass
+@import blueprint/link_icons.sass
 @import partials/base.sass
 @import blueprint
 @import blueprint/scaffolding.sass
 @import code.sass
 @import compass/utilities/links.sass
-@import compass/css3/gradient.sass
+@import compass/css3
 +blueprint-scaffolding("body.bp")
 body.bp
 	+blueprint-typography(true)
@@ -12,6 +13,10 @@ body.bp
 	+blueprint-debug
 	+blueprint-interaction
 	margin: 0
+	a
+		+hover-link
+	h1
+		+text-shadow
 	.top
 		width: 100%
 		+linear-gradient(color_stops(#4EACD7, #fff))
@@ -21,8 +26,7 @@ body.bp
 			#header, #footer
 				+column(!blueprint_grid_columns)
 				height: 7.5em
-				a
-					+hover-link
+
 	#container
 		+container
 	#header, #footer
@@ -32,6 +36,24 @@ body.bp
 		line-height: 4em
 	#content
 		+column(!blueprint_grid_columns, true)	
+		.title
+			+column(24, true)
+			#date
+				+column(12)
+				h5
+					margin-top: 0
+			#share
+				text-align: right
+				+column(12, true)
+				a.instapaper
+					+link-icon("instapaper.png")
+					margin: -2px 10px
+				a.twitter
+					+link-icon("twitter.ico")
+					margin: -2px 10px
+		.post
+			+clearfix
+		
 		.posts
 			+column(16)
 			.post_item
