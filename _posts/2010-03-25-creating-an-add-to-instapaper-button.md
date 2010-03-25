@@ -21,7 +21,8 @@ Insert the following javascript somewhere on your page.
 		try {
 		    if (!b) throw (0);
 		    d.title = '(Saving...) ' + d.title;
-		    z.setAttribute('src', 'http://www.instapaper.com/j/WLdpiYDr34OC?u=' + encodeURIComponent(d.location.href) + '&t=' + (new Date().getTime()));
+		    z.setAttribute('src', 'http://www.instapaper.com/j/WLdpiYDr34OC?u=' + 
+		                   encodeURIComponent(d.location.href) + '&t=' + (new Date().getTime()));
 		    b.appendChild(z);
 		} catch(e) {
 		    alert('Please wait until the page has loaded.');
