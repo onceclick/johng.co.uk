@@ -1,22 +1,6 @@
 ---
 layout: default
 ---
-
-<script type="text/javascript" charset="utf-8">
-	function iprl5(){
-		var d = document,
-		z = d.createElement('scr' + 'ipt'),
-		b = d.body;
-		try {
-		    if (!b) throw (0);
-		    d.title = '(Saving...) ' + d.title;
-		    z.setAttribute('src', 'http://www.instapaper.com/j/WLdpiYDr34OC?u=' + encodeURIComponent(d.location.href) + '&t=' + (new Date().getTime()));
-		    b.appendChild(z);
-		} catch(e) {
-		    alert('Please wait until the page has loaded.');
-		}
-	}
-</script>
 	
 <div class="title">
 	<div id="post_title">
@@ -26,7 +10,7 @@ layout: default
 		<h5><i>{{ page.date | date: "%A, %d %B %Y" }}</i></h5>
 	</div>
 	<div id="share">
-		<a class="instapaper" href="#" onclick="iprl5();void(0);">Add to Instapaper</a>
+		<a class="instapaper" href="http://www.addtoany.com/add_to/instapaper?linkurl=http://www.johng.co.uk{{ page.url }}&linkname={{ page.title }}">Add to Instapaper</a>
 		<a class="twitter" href="http://twitter.com/home?status={{ page.title }}%20-%20http://www.johng.co.uk{{ page.url }}">Tweet this</a>
 	</div>
 </div>
