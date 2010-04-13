@@ -11,6 +11,6 @@ Here I was about to rip into Cory Doctorow for his [recent piece on BoingBoing a
 
 [As does Joel Johnson](http://gizmodo.com/5508286/cory-doctorow-you-are-a-consumer-too),
 
->I'm glad the Apple ][+ came with schematics for the circuit boards. I'm glad it encouraged a generation of kids to tinker and explore. I'm also glad that I don't live in the fucking '70s and have to type in programs from a magazine anymore.
+>I'm glad the Apple II+ came with schematics for the circuit boards. I'm glad it encouraged a generation of kids to tinker and explore. I'm also glad that I don't live in the fucking '70s and have to type in programs from a magazine anymore.
 
 Doctorow, who I respect for all his work in online freedom, comes off looking out of touch on the iPad. Apple's platforms are still inspiring people to create great software. iPhone OS may be locked down in certain areas but we all benefit from the stability and broad appeal this provides.
