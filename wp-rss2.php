@@ -19,6 +19,10 @@ layout: nil
    <title>{{ post.title }}</title>
    <link href="http://www.johng.co.uk{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
+	<author>
+   		<name>John Griffin</name>
+       <uri>http://www.johng.co.uk/</uri>
+   </author>
    <id>http://www.johng.co.uk{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
