@@ -4,13 +4,21 @@ title: johng Blog
 ---
 
 <div class="posts">
+	<div class="post_item">
+		<div class="date">
+			07 May 2010
+		</div>
+		<div class="link">
+			<a href="/sharepoint/index.html">Black Marble explain their experience of Microsoft Sharepoint</a>
+		</div>
+	</div>
   {% for post in site.posts %}
     <div class="post_item">
 		<div class="date">
 			{{ post.date | date_to_string }}
 		</div>
 		<div class="link">
-			<a href="{{ post.url }}">{{ post.title }}</a></li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
 		</div>
 	</div>
   {% endfor %}
