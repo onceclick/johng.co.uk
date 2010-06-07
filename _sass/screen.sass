@@ -10,100 +10,104 @@
 
 +blueprint-scaffolding("body.bp")
 body.bp
-	+blueprint-typography(true)
-	+blueprint-utilities
-	+blueprint-debug
-	+blueprint-interaction
-	margin: 0
-	color: rgb(68, 68, 68)
-	background: rgb(240, 240, 240)
-	text-shadow: rgb(255, 255, 255) 0px 1px 0px
-	font-size: 14px
-	hr.line
-		border-bottom: 1px solid rgb(255, 255, 255)
-		border: 1px
-		border-top: 1px solid rgb(204, 204, 204)
-		height: 0px
-		margin: 5px 0px 10px 0px
-		width: 100%
-		+nested-reset
-	a
-		+hover-link
-		+link-colors(rgb(193, 39, 45), rgb(193, 39, 45), rgb(193, 39, 45), rgb(193, 39, 45), rgb(193, 39, 45))
-	h1, h2, h3
-		font-weight: bold
-		color: rgb(68, 68, 68)
-		a
-			+link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
-			text-decoration: none
-			&:hover 
-				text-decoration: none
-	.top
-		width: 100%
-		+linear-gradient(color_stops(#528EE0, rgb(240, 240, 240)))
-		#cont
-			+container
-			height: 15em
-			#header, #footer
-				+column(!blueprint_grid_columns)
-				height: 7.5em
+  +blueprint-typography(true)
+  +blueprint-utilities
+  +blueprint-debug
+  +blueprint-interaction
+  margin: 0
+  color: rgb(68, 68, 68)
+  background: rgb(240, 240, 240)
+  text-shadow: rgb(255, 255, 255) 0px 1px 0px
+  font-size: 14px
+  hr.line
+    border-bottom: 1px solid rgb(255, 255, 255)
+    border: 1px
+    border-top: 1px solid rgb(204, 204, 204)
+    height: 0px
+    margin: 5px 0px 10px 0px
+    width: 100%
+    +nested-reset
+  a
+    +hover-link
+    +link-colors(rgb(193, 39, 45), rgb(193, 39, 45), rgb(193, 39, 45), rgb(193, 39, 45), rgb(193, 39, 45))
+  h1, h2, h3
+    font-weight: bold
+    color: rgb(68, 68, 68)
+    a
+      +link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
+      text-decoration: none
+      &:hover
+        text-decoration: none
+  .top
+    width: 100%
+    +linear-gradient(color_stops(#528EE0, rgb(240, 240, 240)))
+    #cont
+      +container
+      height: 15em
+      #header, #footer
+        +column(!blueprint_grid_columns)
+        height: 7.5em
 
-	#container
-		+container
-	#header, #footer
-		+column(!blueprint_grid_columns)
-	#footer
-		text-align: center
-		line-height: 4em
-		color: rgb(119, 119, 119)
-		font-size: 12px
-	#content
-		+column(!blueprint_grid_columns, true)	
-		.title
-			+column(24, true)
-			#date
-				+column(12)
-				color: rgb(119, 119, 119)
-				font-size: 12px
-			#share
-				text-align: right
-				+column(12, true)
-				a
-					font-weight: bold
-					+link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
-					text-decoration: none
-					&:hover 
-						text-decoration: none
-				a.instapaper
-					+link-icon("instapaper.png")
-					margin: -2px 10px
-				a.twitter
-					+link-icon("twitter.ico")
-					margin: -2px 10px
-		.post
-			+clearfix
-		
-		.posts
-			+column(16)
-			.post_item
-				line-height: 1.5em
-				.date
-					+column(2.5)
-					color: rgb(119, 119, 119)
-					font-size: 12px
-				.link
-					+column(12.5)
-					a
-						font-weight: bold
-						+link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
-						text-decoration: none
-						&:hover 
-							text-decoration: none
-		.ad
-			+column(8,true)
-	#comments
-		+clearfix
-		+column(!blueprint_grid_columns, true)
+  #container
+    +container
+  #header, #footer
+    +column(!blueprint_grid_columns)
+  #footer
+    text-align: center
+    line-height: 4em
+    color: rgb(119, 119, 119)
+    font-size: 12px
+  #content
+    +column(!blueprint_grid_columns, true)
+    #post
+      sup
+        font-size: smaller
+        vertical-align: super
+    .title
+      +column(24, true)
+      #date
+        +column(12)
+        color: rgb(119, 119, 119)
+        font-size: 12px
+      #share
+        text-align: right
+        +column(12, true)
+        a
+          font-weight: bold
+          +link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
+          text-decoration: none
+          &:hover
+            text-decoration: none
+        a.instapaper
+          +link-icon("instapaper.png")
+          margin: -2px 10px
+        a.twitter
+          +link-icon("twitter.ico")
+          margin: -2px 10px
+    .post
+      +clearfix
+
+    .posts
+      +column(16)
+      .post_item
+        line-height: 1.5em
+        .date
+          +column(2.5)
+          color: rgb(119, 119, 119)
+          font-size: 12px
+        .link
+          +column(12.5)
+          a
+            font-weight: bold
+            +link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
+            text-decoration: none
+            &:hover
+              text-decoration: none
+    .ad
+      +column(8,true)
+  #comments
+    +clearfix
+    +column(!blueprint_grid_columns, true)
 
 form.bp
-	+blueprint-form
+  +blueprint-form
