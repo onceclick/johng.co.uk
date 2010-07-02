@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-	
+
 <div class="title">
 	<div id="post_title">
 		<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
@@ -10,7 +10,7 @@ layout: default
 		{{ page.date | date: "%A, %d %B %Y" }}
 	</div>
 	<div id="share">
-		<a class="instapaper" href="http://www.addtoany.com/add_to/instapaper?linkurl=http://www.johng.co.uk{{ page.url }}&linkname={{ page.title }}">Add to Instapaper</a>
+		<a class="instapaper" href="http://www.instapaper.com/hello2?url=http://www.johng.co.uk{{ page.url | escape }}">Add to Instapaper</a>
 		<a class="twitter" href="http://twitter.com/home?status={{ page.title }}%20-%20http://www.johng.co.uk{{ page.url }}">Tweet this</a>
 	</div>
 </div>
