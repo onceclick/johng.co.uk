@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 644
 layout: post
 title: 3 Skypephone Unboxing
@@ -10,4 +10,3 @@ Thanks to Matt over at <a href="http://www.3mobilebuzz.com/">3mobilebuzz</a> for
 <p align="center"><a href="http://www.flickr.com/photos/jgriffin/2054703741/" class="tt-flickr"><img src="http://farm3.static.flickr.com/2389/2054703741_098793f652_m.jpg" alt="3 Skypephone" border="0" height="240" width="180" /></a><a href="http://www.flickr.com/photos/jgriffin/2055490404/" class="tt-flickr"><img src="http://farm3.static.flickr.com/2358/2055490404_ed15b79cd0_m.jpg" alt="3 Skypephone" border="0" height="240" width="180" /></a></p>
 <p align="center"><a href="http://www.flickr.com/photos/jgriffin/2054705629/" class="tt-flickr"><img src="http://farm3.static.flickr.com/2388/2054705629_7b89bb32ff_m.jpg" alt="3 Skypephone" border="0" height="240" width="180" /></a><a href="http://www.flickr.com/photos/jgriffin/2055494362/" class="tt-flickr"><img src="http://farm3.static.flickr.com/2394/2055494362_da9eaea153_m.jpg" alt="3 Skypephone" border="0" height="240" width="180" /></a></p>
 <p align="center"><a href="http://www.flickr.com/photos/jgriffin/2054706479/" class="tt-flickr"><img src="http://farm3.static.flickr.com/2146/2054706479_5675624870_m.jpg" alt="3 Skypephone" border="0" height="240" width="180" /></a><a href="http://www.flickr.com/photos/jgriffin/2054707749/" class="tt-flickr"><img src="http://farm3.static.flickr.com/2006/2054707749_dbbeaa489d_m.jpg" alt="3 Skypephone" border="0" height="240" width="180" /></a></p>
-<p align="center">&nbsp;</p>

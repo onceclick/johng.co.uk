@@ -7,7 +7,7 @@ wordpress_url: http://www.johng.co.uk/2007/01/04/mma-year-in-review-2006/
 The biggest and best year for MMA yet has just wrapped up and there are no signs the sport is slowing down yet. We have seen the continued dominance of Chuck Liddell, Cro Cop finally winning the big one and the defeat of Matt Hughes.
 
 **Best Division:** UFC Welterweight
-One glance at the <a href="http://www.mmaweekly.com/absolutenm/templates/topten.asp?articleid=13&zoneid=15">MMA Weekly rankings</a> is evidence enough that this division is deep. Some of the best matches have been fought within it and competition is extremely close at the top.
+One glance at the <a href="http://www.mmaweekly.com/absolutenm/templates/topten.asp?articleid=13&amp;zoneid=15">MMA Weekly rankings</a> is evidence enough that this division is deep. Some of the best matches have been fought within it and competition is extremely close at the top.
 
 **Worst Division:** UFC Heavyweight
 Tim Sylvia has become a joke. Our only hope now is that Mirko goes in there and high kicks his head off ASAP.

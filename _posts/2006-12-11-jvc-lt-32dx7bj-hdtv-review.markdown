@@ -4,7 +4,7 @@ layout: post
 title: JVC LT-32DX7BJ HDTV Review
 wordpress_url: http://www.johng.co.uk/2006/12/11/jvc-lt-32dx7bj-hdtv-review/
 ---
-Managed to get some time in with the new TV (<a href="http://www.jvc.co.uk/product.php?id=LT-32DX7BJ&catid=100088&sub=feature#table">JVC LT-32DX7BJ</a>) over the weekend. It's now plainly clear to me that if you don't have an HDTV with Xbox Live Gold there is no point getting a 360. You're only getting a fraction of the experience if you don't - seriously. And for that reason you should get both rather than missing out.
+Managed to get some time in with the new TV (<a href="http://www.jvc.co.uk/product.php?id=LT-32DX7BJ&amp;catid=100088&amp;sub=feature#table">JVC LT-32DX7BJ</a>) over the weekend. It's now plainly clear to me that if you don't have an HDTV with Xbox Live Gold there is no point getting a 360. You're only getting a fraction of the experience if you don't - seriously. And for that reason you should get both rather than missing out.
 
 I fired up a Gears multiplayer match to see how it was looking and I found it quite hard to concentrate on the match as I was noticing details I hadn't seen before. Also having an overall larger, sharper view made the game easier to play after getting used to it. I can definitely see the guys with HDTVs having in edge online against those that don't.
 

@@ -8,4 +8,4 @@ I have been playing far too much <a href="http://www.popcap.com/games/peggle">Pe
 
 If you are like me and need to move your saves over just go into the Steam apps folder and locate the Peggle userdata directory. Its then just a matter of copying the contents over to /Users/Username/Library/Application Support/PopCap/Peggle/userdata and you are set to continue the grand master challenge.
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/oxJxnZoJ3dM&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/oxJxnZoJ3dM&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/oxJxnZoJ3dM&amp;rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/oxJxnZoJ3dM&amp;rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>

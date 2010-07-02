@@ -6,7 +6,7 @@ wordpress_url: http://www.johng.co.uk/2006/07/18/valves-portal-prey-on-acid/
 ---
 ![](http://www.johng.co.uk/wp-content/uploads/2006/07/bscap0046.jpg)
 
-Gamespot have the <a href="http://uk.gamespot.com/xbox360/action/halflife2episode2/download_ini.html?sid=6154227&id=6154227">trailer</a> (also <a href="http://www.gamevideos.com/video/id/4650">here</a>) for Portal up for download and it looks pretty crazy. It takes the idea of portals used well in Prey and takes them to a whole new level allowing you to totally manipulate them using some kind of portal gun. It appears you shoot entry and exit points onto walls and then those points are spatially linked in the world.
+Gamespot have the <a href="http://uk.gamespot.com/xbox360/action/halflife2episode2/download_ini.html?sid=6154227&amp;id=6154227">trailer</a> (also <a href="http://www.gamevideos.com/video/id/4650">here</a>) for Portal up for download and it looks pretty crazy. It takes the idea of portals used well in Prey and takes them to a whole new level allowing you to totally manipulate them using some kind of portal gun. It appears you shoot entry and exit points onto walls and then those points are spatially linked in the world.
 
 <img alt="portal18" id="image307" src="http://www.johng.co.uk/wp-content/uploads/2006/07/bscap0018.jpg" />
 

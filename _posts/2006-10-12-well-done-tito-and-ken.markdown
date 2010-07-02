@@ -4,7 +4,7 @@ layout: post
 title: Well Done Tito and Ken
 wordpress_url: http://www.johng.co.uk/2006/10/12/well-done-tito-and-ken/
 ---
-Check out these numbers (via <a href="http://www.f4wonline.com/index.php?option=com_content&task=view&id=2481&Itemid=1">F4WOnline</a>),
+Check out these numbers (via <a href="http://www.f4wonline.com/index.php?option=com_content&amp;task=view&amp;id=2481&amp;Itemid=1">F4WOnline</a>),
 - Fight did a 9.7 rating in males 25-34
 - Fight did an 8.0 rating in males 18-34
 - Show drew 4.2 million viewers overall, crushing Smackdown's CW debut

@@ -1,10 +1,10 @@
---- 
+---
 wordpress_id: 388
 layout: post
 title: My PC Can't Stand the Heat
 wordpress_url: http://www.johng.co.uk/?p=141
 ---
-And neither can I but this week's heat wave has really put a strain on it, pushing the CPU up to 70¬∞C on a regular basis. I can't keep this up for much longer so I am finally going to buy a new case. About six months ago I was in the market for the <a href="http://www.chenbro.com.tw/GPC_promote/GamingBombII.php">Chenbro Gaming Bomb 2</a> just because it looked very slick (ala <a href="http://www.apple.com/powermac/">Mac G5</a>) and had 120mm fans at the front and rear. Unfortunately it turned out to be far <a href="http://www.anandtech.com/casecooling/showdoc.aspx?i=2298&p=11">too loud</a> for my tastes (a pet peeve you develop when you sleep in the same room as your PC) and I had to look for something else.
+And neither can I but this week's heat wave has really put a strain on it, pushing the CPU up to 70¬∞C on a regular basis. I can't keep this up for much longer so I am finally going to buy a new case. About six months ago I was in the market for the <a href="http://www.chenbro.com.tw/GPC_promote/GamingBombII.php">Chenbro Gaming Bomb 2</a> just because it looked very slick (ala <a href="http://www.apple.com/powermac/">Mac G5</a>) and had 120mm fans at the front and rear. Unfortunately it turned out to be far <a href="http://www.anandtech.com/casecooling/showdoc.aspx?i=2298&amp;p=11">too loud</a> for my tastes (a pet peeve you develop when you sleep in the same room as your PC) and I had to look for something else.
 
 I find it really hard to find cases that I like as they are either too bland or too extreme. It seems like the only choices are plain ugly beige boxes or stupid looking cases that feel more at home on the set of Doctor Who than in my room. There are very few cool looking cases around, something that Apple has a bit of a monopoly on.
 

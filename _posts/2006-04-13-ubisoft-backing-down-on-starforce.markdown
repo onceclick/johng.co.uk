@@ -8,4 +8,4 @@ Potentially <a href="http://foogaming.com/2006/04/12/ubisoft-having-second-thoug
 
 via <a href="http://digg.com/gaming/Ubisoft_Having_Second_Thoughts_on_Starforce_">Digg</a>
 
-**UPDATE: **It's <a href="http://www.gamespot.com/news/2006/04/13/news_6147655.html?part=rss&tag=gs_&subj=6147655">official</a>.
+**UPDATE: **It's <a href="http://www.gamespot.com/news/2006/04/13/news_6147655.html?part=rss&amp;tag=gs_&amp;subj=6147655">official</a>.

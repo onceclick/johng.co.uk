@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 376
 layout: post
 title: Gaming on Macs
@@ -8,4 +8,4 @@ wordpress_url: http://www.johng.co.uk/?p=128
 
 Do that and I'll switch tomorrow. Shame that DirectX is going to get in the way.
 
-<a href="http://games.slashdot.org/article.pl?sid=05/06/07/1936219&from=rss">via</a>
+<a href="http://games.slashdot.org/article.pl?sid=05/06/07/1936219&amp;from=rss">via</a>

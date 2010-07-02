@@ -1,10 +1,10 @@
---- 
+---
 wordpress_id: 425
 layout: post
 title: 185,000 PSP Owners Can Be Wrong
 wordpress_url: http://www.johng.co.uk/?p=183
 ---
-Sony's strategy of making the UK and Europe wait an insanely long time for its new portable system has clearly paid off. By launching the PSP in the UK almost a year after its initial <a href="http://news.bbc.co.uk/1/hi/technology/4094501.stm">Japanese launch</a> and <a href="http://games.slashdot.org/games/05/08/08/1251221.shtml?tid=233&tid=207&tid=123">suing anyone</a> who dares to import them they built enough up enough momentum to <a href="http://news.bbc.co.uk/1/hi/technology/4218320.stm">shift 185,000 units</a> in the first four days. By comparison Nintendo did 87,000 consoles when the DS launched earlier in the year, which at the time was considered a landmark figure.
+Sony's strategy of making the UK and Europe wait an insanely long time for its new portable system has clearly paid off. By launching the PSP in the UK almost a year after its initial <a href="http://news.bbc.co.uk/1/hi/technology/4094501.stm">Japanese launch</a> and <a href="http://games.slashdot.org/games/05/08/08/1251221.shtml?tid=233&amp;tid=207&amp;tid=123">suing anyone</a> who dares to import them they built enough up enough momentum to <a href="http://news.bbc.co.uk/1/hi/technology/4218320.stm">shift 185,000 units</a> in the first four days. By comparison Nintendo did 87,000 consoles when the DS launched earlier in the year, which at the time was considered a landmark figure.
 
 Initially I was surprised by the figure but when we look at the launch it's clear how this number was accomplished. The system's short comings are well documented including horrible battery life, expensive low capacity memory and many units shipped ridden with dead pixels. But by sandwiching the console into two camps, part games system, part media player they have drawn the early adopters from both areas and the general gadget freaks also.
 

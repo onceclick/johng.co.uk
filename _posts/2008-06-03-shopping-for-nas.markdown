@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 686
 layout: post
 title: Shopping for NAS
@@ -8,6 +8,6 @@ I have been shopping around recently for a <a href="http://en.wikipedia.org/wiki
 
 Devices such as the <a href="http://www.drobo.com/">Drobo</a> and the <a href="http://www.netgear.co.uk/desktop_network_storage_rnd4250.php">ReadyNAS NV+</a> offer implementations of this but at £400 to £500 *without* any drives included makes them ridiculously over priced. So I looked back at my linux box and wondered what could be done in software.
 
-The much hyped Sun file system <a href="http://en.wikipedia.org/wiki/Zfs">ZFS</a> offers these features and more but with it only being on Solaris and a Linux port not even close I ruled it out a while back. Then I remembered that <a href="http://www.freenas.org/">FreeNAS</a> is BSD based and that <a href="http://en.wikipedia.org/wiki/FreeBSD#FreeBSD_7">ZFS</a><a href="http://en.wikipedia.org/wiki/FreeBSD#FreeBSD_7"> has been ported</a> to FreeBSD 7. Well it turns out that FreeNAS is currently based on FreeBSD 6 but they <a href="http://www.freenas.org/index.php?option=com_openwiki&Itemid=30&amp;id=roadmap:en#release_0.7x">specifically mention in the roadmap</a> that ZFS support will be coming soon.
+The much hyped Sun file system <a href="http://en.wikipedia.org/wiki/Zfs">ZFS</a> offers these features and more but with it only being on Solaris and a Linux port not even close I ruled it out a while back. Then I remembered that <a href="http://www.freenas.org/">FreeNAS</a> is BSD based and that <a href="http://en.wikipedia.org/wiki/FreeBSD#FreeBSD_7">ZFS</a><a href="http://en.wikipedia.org/wiki/FreeBSD#FreeBSD_7"> has been ported</a> to FreeBSD 7. Well it turns out that FreeNAS is currently based on FreeBSD 6 but they <a href="http://www.freenas.org/index.php?option=com_openwiki&amp;Itemid=30&amp;id=roadmap:en#release_0.7x">specifically mention in the roadmap</a> that ZFS support will be coming soon.
 
 So now I just have to wait a bit and soon I will be able to build my own free software alternative to the overpriced Drobo.
