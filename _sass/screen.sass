@@ -88,23 +88,21 @@ body.bp
       +clearfix
 
     .posts
-      +column(16)
       .post_item
+        +column(24)
         line-height: 1.5em
         .date
           +column(2.5)
           color: rgb(119, 119, 119)
           font-size: 12px
         .link
-          +column(12.5)
+          +column(21.5, true)
           a
             font-weight: bold
             +link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
             text-decoration: none
             &:hover
               text-decoration: none
-    .ad
-      +column(8,true)
   #comments
     +clearfix
     +column(!blueprint_grid_columns, true)

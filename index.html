@@ -4,26 +4,31 @@ title: johng Blog
 ---
 
 <div class="posts">
-	<!--div class="post_item">
-		<div class="date">
-			07 May 2010
-		</div>
-		<div class="link">
-			<a href="/sharepoint/index.html">Black Marble explain their experience of Microsoft Sharepoint</a>
-		</div>
-	</div-->
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <div class="post_item">
-		<div class="date">
-			{{ post.date | date_to_string }}
-		</div>
+  		<div class="date">
+  			{{ post.date | date_to_string }}
+  		</div>
 		<div class="link">
 			<a href="{{ post.url }}">{{ post.title }}</a>
 		</div>
 	</div>
   {% endfor %}
-</div>
-
-<div class="ad">
-	&nbsp;
+  <div class="post_item">&nbsp;</div>
+  <div class="post_item">
+  	<div class="date">
+  		&nbsp;
+  	</div>
+  	<div class="link">
+      {% if paginator.page < paginator.total_pages %}
+      <a href="/page{{ paginator.next_page }}"><- Older</a>
+      {% endif %}
+      &nbsp; | &nbsp;
+      {% if paginator.page == 2 %}
+      <a href="/">Newer -></a>
+      {% elsif paginator.page > 2 %}
+      <a href="/page{{ paginator.previous_page }}">Newer -></a>
+      {% endif %}
+  	</div>
+  </div>
 </div>
