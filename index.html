@@ -6,13 +6,22 @@ title: johng Blog
 <div class="posts">
   {% for post in paginator.posts %}
     <div class="post_item">
-  		<div class="date">
-  			{{ post.date | date_to_string }}
-  		</div>
-		<div class="link">
-			<a href="{{ post.url }}">{{ post.title }}</a>
-		</div>
-	</div>
+      <div class="title">
+      	<div id="post_title">
+      		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      	</div>
+      	<div id="date">
+      		{{ post.date | date: "%A, %d %B %Y" }}
+      	</div>
+      	<div id="share">
+      		<a class="instapaper" href="http://www.addtoany.com/add_to/instapaper?linkurl=http://www.johng.co.uk{{ post.url }}&linkname={{ post.title }}">Add to Instapaper</a>
+      		<a class="twitter" href="http://twitter.com/home?status={{ page.title }}%20-%20http://www.johng.co.uk{{ post.url }}">
+      		  Tweet this</a>
+      	</div>
+      </div>
+      <hr>
+      <div id="post">{{ post.content }}</div>
+  	</div>
   {% endfor %}
   <div class="post_item">&nbsp;</div>
   <div class="post_item">
