@@ -45,12 +45,22 @@ body.bp
     width: 100%
     +linear-gradient(color_stops(#528EE0, rgb(240, 240, 240)))
     margin-bottom: 0.5em
-    h1
-      margin-top: 0.5em
     #cont
       +container
-      #header, #footer
-        +column($blueprint_grid_columns)
+      #header
+        +column($blueprint_grid_columns,true)
+        .bar
+          +column($blueprint_grid_columns,true)
+          margin: 1.5em 0
+          h1.title
+            +column($blueprint_grid_columns/2)
+            margin: 0
+          .right_bar
+            +column(8, true)
+            +prepend(4)
+            h3.info
+              +column(8, true)
+              margin: 3px 0 0 0
 
   #container
     +container
@@ -79,7 +89,7 @@ body.bp
           margin-bottom: 1.5em
           p
             margin: 0
-    .title
+    .post_title
       +column(24, true)
       h2
         margin-bottom: 0.25em

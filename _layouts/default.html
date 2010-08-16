@@ -6,7 +6,7 @@
     <!--[if lt IE 8]>
         <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
     <![endif]-->
-  
+
      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   	<script src="http://www.apple.com/library/quicktime/2.0/scripts/prototype.js" language="JavaScript" type="text/javascript"></script>
   	<script src="http://www.apple.com/library/quicktime/2.0/scripts/qtp_poster.js" language="JavaScript" type="text/javascript"></script>
@@ -29,20 +29,26 @@
   	  })();
 
   	</script>
-	
+
   	<div class="top">
   		<div id="cont">
-  			<div id="header">
-  				<h1><a href="{{ site.url }}">johng Blog</a></h1>
+  		  <div id="header">
+    			<div class="bar">
+    				<h1 class="title"><a href="{{ site.url }}">John Griffin</a></h1>
+    				<div class="right_bar">
+    				  <h3 class="info">Ruby, Rails</h3>
+    				  <h3 class="info">Tech, Games, More</h3>
+    				</div>
+    			</div>
   			</div>
   		</div>
   	</div>
- 
+
     <div id="container" class="container">
       <div id="content">
       	  {{ content }}
       </div>
-  
+
       <div id="footer">
     	Copyright © <script type="text/javascript">document.write(new Date().getFullYear())</script> John Griffin
       </div>
