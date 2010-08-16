@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>johng Blog</title>
+ <title>John Griffin</title>
  <link href="http://www.johng.co.uk/atom.xml" rel="self"/>
  <link href="http://www.johng.co.uk/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
