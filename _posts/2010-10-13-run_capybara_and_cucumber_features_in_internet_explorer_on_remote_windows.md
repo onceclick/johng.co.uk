@@ -68,6 +68,7 @@ insert this configuration:
 
 {% highlight ruby %}
 Capybara.app_host = "http://192.168.1.37:3000"
+Capybara.default_driver = :selenium
 Capybara.register_driver :selenium do |app|
   Capybara::Driver::Selenium.new(app,
     :browser => :remote,
