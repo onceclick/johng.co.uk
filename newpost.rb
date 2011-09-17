@@ -7,7 +7,7 @@ unless ARGV[0]
   exit(-1)
 end
 
-blog_root = "/Users/jgriffin/Documents/blog/johng.co.uk"
+blog_root = "/Users/jgriffin/Documents/johng.co.uk"
 date_prefix = Time.now.strftime("%Y-%m-%d")
 postname = ARGV[0].strip.downcase.gsub(/ /, '-')
 post = "#{blog_root}/_posts/#{date_prefix}-#{postname}.md"
