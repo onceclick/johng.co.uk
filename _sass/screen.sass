@@ -32,18 +32,18 @@ body.bp
     +nested-reset
   a
     +hover-link
-    +link-colors(rgb(193, 39, 45), rgb(193, 39, 45), rgb(193, 39, 45), rgb(193, 39, 45), rgb(193, 39, 45))
+    +link-colors(#E84167, #E84167, #E84167, #E84167, #E84167)
   h1, h2, h3
     font-weight: bold
-    color: rgb(68, 68, 68)
+    color: #30282A
     a
-      +link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
+      +link-colors(#30282A, #E84167, #30282A, #30282A, #30282A)
       text-decoration: none
       &:hover
         text-decoration: none
   .top
     width: 100%
-    +linear-gradient(color_stops(#528EE0, rgb(240, 240, 240)))
+    +linear-gradient(color_stops(#C4D4CB, rgb(240, 240, 240)))
     margin-bottom: 0.5em
     #cont
       +container
@@ -58,6 +58,8 @@ body.bp
           .right_bar
             +column(8, true)
             +prepend(4)
+            h3
+              color: #542733
             h3.info
               +column(8, true)
               margin: 3px 0 0 0
@@ -103,7 +105,7 @@ body.bp
         font-size: 12px
         a
           font-weight: bold
-          +link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
+          +link-colors(rgb(68, 68, 68), #E84167, rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
           text-decoration: none
           &:hover
             text-decoration: none
@@ -128,7 +130,7 @@ body.bp
           +column(21, true)
           a
             font-weight: bold
-            +link-colors(rgb(68, 68, 68), rgb(193, 39, 45), rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
+            +link-colors(rgb(68, 68, 68), #E84167, rgb(68, 68, 68), rgb(68, 68, 68), rgb(68, 68, 68))
             text-decoration: none
             &:hover
               text-decoration: none
