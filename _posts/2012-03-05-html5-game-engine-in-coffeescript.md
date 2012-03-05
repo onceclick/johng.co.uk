@@ -22,7 +22,7 @@ It's obviously not a full game but I feel it's a good starting point to build of
 
 * Multiplayer support (maybe using pusher).
 * Tile based world generation.
-* Game mechanics such as combat, levels, etc.
+* Game mechanics such as combat, levels, etc. 
 * Sound effects.
 * Massively Improved sprites (a pixel artist I am not).
 
