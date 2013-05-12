@@ -5,8 +5,7 @@ title: Oh No
 wordpress_url: http://www.johng.co.uk/2007/08/01/oh-no/
 ---
 <a href="http://www.johng.co.uk/wp-content/uploads/2007/08/bbciplayer.png" title="BBCiPlayer">
-<p style="text-align: center"><img src="http://www.johng.co.uk/wp-content/uploads/2007/08/bbciplayer.png" ilo-full-src="http://www.johng.co.uk/wp-content/uploads/2007/08/bbciplayer.png" alt="BBCiPlayer" /></p>
-
+  <p style="text-align: center"><img src="http://www.johng.co.uk/wp-content/uploads/2007/08/bbciplayer.png" ilo-full-src="http://www.johng.co.uk/wp-content/uploads/2007/08/bbciplayer.png" alt="BBCiPlayer" /></p>
 </a>
 
 More thoughts soon ... if I can get it working.
