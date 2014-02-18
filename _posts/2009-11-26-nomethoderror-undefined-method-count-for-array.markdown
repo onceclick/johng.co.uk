@@ -1,10 +1,10 @@
---- 
+---
 wordpress_id: 1201
 layout: post
 title: "NoMethodError: undefined method `count' for Array"
 wordpress_url: http://www.johng.co.uk/?p=1201
 ---
-<code>NoMethodError: undefined method `count' for #&lt;Array:0x9c0e3e8&gt;</code>
+    NoMethodError: undefined method `count' for #<Array:0x9c0e3e8>
 
 Getting this error like this when you deploy your Ruby on Rails app to a production server?
 

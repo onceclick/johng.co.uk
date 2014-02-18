@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 490
 layout: post
 title: Tesco Screw Us Again
@@ -6,6 +6,7 @@ wordpress_url: http://www.johng.co.uk/2006/03/29/tesco-screw-us-again/
 ---
 It's no secret that as students with no car and living in the middle of Birmingham that doing a big supermarket shop is near impossible. And so we rely on internet orders and deliveries from the major supermarket chains to keep us fed. Out of all the supermarkets that provide this serivce Tesco are without a doubt, hands down the worst around and we have literally tried them all.
 So please peruse the following list of atrocities inflicted on us by Tesco (I'm sure there are more I have forgotten, feel free to comment):
+
 <ol>
 	<li>Van 'broke down' so delivery was rescheduled for later in the week</li>
 	<li>No delivery because the driver ran out of time and went home</li>
@@ -13,6 +14,7 @@ So please peruse the following list of atrocities inflicted on us by Tesco (I'm 
 	<li>Driver spends five minutes on the phone before stopping to look in my direction and give me the delivery</li>
 	<li>Delivery never made, rescheduled for the following day. No vans available so a staff member turns up in his car with our delivery in his boot! Most of the things after being taken on and off vans and in out of cars several times is damaged. While we load up our trolley he discusses with us the finer points of Tesco deliveries.</li>
 </ol>
+
 That was the last time we dealt with Tesco delivery until today. I recieved an email from them earlier in the week that encouraged me to try them again after the recent bad service I had. What the hell I needed some food, they couldn't be as bad as last time I thought! Lets book them for between 5 and 7 tomorrow.
 
 So 5pm came and went. Two hours elapsed and still nothing.
