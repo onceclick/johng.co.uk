@@ -2,5 +2,6 @@ permalink: pretty
 pygments: true
 url: http://www.johng.co.uk
 paginate: 10
+markdown: kramdown
 exclude:
   - config.rb
