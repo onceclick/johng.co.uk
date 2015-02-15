@@ -3,7 +3,7 @@ layout: post
 title: "Guardian Filtered Feed"
 ---
 
-*UPDATE* This stopped working because the feed format changed several times. I also no longer subscribe to the feed.
+**UPDATE** This stopped working because the feed format changed several times. I also no longer subscribe to the feed.
 
 I forgot to make [this project][1] public when I created it for myself and
 started using it a couple of years ago.
